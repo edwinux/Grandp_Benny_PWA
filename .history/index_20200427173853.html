@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html id="html_tag" lang="en" dir="ltr">
+<head>
+  <title id="title"></title>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.8.2/css/bulma.min.css">
+  <script src="https://use.fontawesome.com/releases/v5.3.1/js/all.js" defer></script>
+
+  <link rel="stylesheet" href="https://unpkg.com/swiper/css/swiper.css">
+  <link rel="stylesheet" href="https://unpkg.com/swiper/css/swiper.min.css">
+  <script src="https://unpkg.com/swiper/js/swiper.js"></script>
+  <script src="https://unpkg.com/swiper/js/swiper.min.js"></script>
+
+  <link rel="stylesheet" href="./css/style.css">
+  <script src="./js/script.js" defer></script>
+
+  <link rel="apple-touch-icon" href="./icon_192x192.png">
+  <meta name="theme-color" content="#ef4e2a">
+
+  <link rel="manifest" href="./manifest.json">
+  <script>
+    if('serviceWorker' in navigator) {
+      navigator.serviceWorker.register('./service_worker.js')
+        .then(() => console.log("Service Worker Registered"))
+        .catch(e => console.log(e));
+    }
+  </script>
+
+</head>
+<body>
+
+</body>
+
+  <!-- Bulma.io Nav-Bar -->
+  <nav class="navbar is-dark" role="navigation" aria-label="main navigation">
+    <div class="navbar-brand">
+      <a class="navbar-item">
+        <span class="icon is-medium" id="info_icon">
+          <i class="fas fa-2x fa-info-circle"></i>
+        </span>
+      </a>
+      <a class="navbar-item">
+        <span class="icon is-medium" id="home_icon">
+          <i class="fas fa-2x fa-home"></i>
+        </span>
+      </a>
+      <a class="navbar-item">
+        <span class="icon is-medium" id="info_icon">
+          <i class="fas fa-font"></i>
+        </span>
+      </a>   
+    </div>
+  </nav>
+
+  <!-- Slider main container -->
+  <div id="swiper_container" class="swiper-container">
+    <!-- Additional required wrapper -->
+    <div class="swiper-wrapper">
+            <!-- Slides -->
+    </div>        
+  </div>
+
+  <!-- Bulma.io Modal for 'About' information. -->
+  <div class="modal" id="about_modal">
+    <div class="modal-background"></div>
+    <div class="modal-card">
+      <header class="modal-card-head">        
+        <p class="modal-card-title">About</p>
+        <button class="delete" id="close_modal_btn" aria-label="close"></button>
+      </header>
+      <section class="modal-card-body">
+        <h1 class="title" id="about_title"></h1> 
+        <p id="about_description"></p>
+        <br>
+        <h2 class="subtitle" id="about_credits_title"></h1>
+        <div id="about_credits_text"></div>
+        <br>
+        <div>Version: <span id="version"></span></div>
+      </section> 
+      <section>
+        
+      </section>
+    </div>
+  </div>
+
+</div>
+
+</html>

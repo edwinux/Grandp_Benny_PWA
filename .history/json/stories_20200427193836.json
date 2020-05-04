@@ -1,0 +1,186 @@
+{
+
+  "moon" : {
+    "en" : {
+      "title": "Grandp Benny Flies To The Moon",    
+      "about": {
+        "title" : "The Project",
+        "description" : "'The Voice of Reason' is a global community of individuals who are passionate about children′s education, especially in the field of science and exploration.\nOur content is designed to stimulate children′s thirst for knowledge and encourage creativity through age-appropriate immersive stories, allowing kids to realize their full potential.",
+        "credits_title": "Credits",
+        "credits_text" : "<p>Edwin Terek - Producer</p><p>Alex Pritsert - Producer</p><p>Ran Levi - Author, Developer</p><p>David Gavin - Narration</p><p>Eduardo Rayn - Translation & Narration</p><p>Gideon Hack - Editing</p><p>Alesya Ugolkova - Editing</p><p>AV Records  - Music & Effects</p>"
+      },
+      "path_to_4x3_images"  : "./Images/4by3/",
+      "path_to_16x9_images" : "./Images/16by9/",
+      "path_to_audio"       : "./Audio/",
+      "pages": 
+        [
+          {        
+          "text"       : "<h1 style='text-align:center'>Grandpa Benny Flies To The Moon</h1><p style='text-align:center'>Tap the image to start the story!</p><p style='text-align:center'>(psst..try tilting the screen horizontaly)</p>",
+          "audio"      : "Intro.mp3"},
+        
+        {
+          "text"       : "‘Children, lunch is ready!’ called Grandma Rosa. \nDavid and Maya entered the kitchen. ‘Please, can we play in the yard a little longer?’ asked David. ‘If you don't eat now, the burgers will get cold!’ said grandma.\n‘I have an idea,’ said Grandpa Benny, ‘if you eat well and finish the entire plate, we’ll go and feed the parrots in the yard. What do you say?’\n‘Yes! Feed the parrots! Feed the parrots!’ called Maya and David excitedly. ‘Great,’ Grandma Rosa smiled, ‘now please sit at the table.’",
+          "audio"      : "Page1.mp3"},
+          
+        {
+          "text"       : "After the meal we went out to the yard with Grandpa Benny. We cut apples, bananas and pears and put them on a tray inside the cage. The three parrots happily  squawked and pecked at the fruits with their beaks. \n‘Grandpa,’ asked Maya, ‘what is that round, black stone at the corner of the cage?’  ‘This? This is a stone I brought back from the moon many years ago.’ replied Grandpa Benny. ‘From the moon? Really?’ asked David in surprise. ‘Yeah, sure. I flew there with Eagle, the big, gray parrot. I haven't told you about my trip to the moon?’ ‘No! Tell us!’ urged David and Maya.",
+          "audio"      : "Page2.mp3"},
+          
+        {
+          "text"       : "‘It happened many years ago,״ Grandpa Benny said. ״I was a young mailman then. One day, a very strange package arrived at the post office: there was a small, white egg inside it. On the package was written: 'To Buzz Aldrin, the Kennedy Space Center, Florida, USA.׳ \nHow strange. I'd never heard of someone sending an egg by mail....but a package is a package! I carefully put the egg in my mailbag inside a cotton-padded pocket, and off to Florida I went.״",
+          "audio"      : "Page3.mp3"},
+          
+        {
+          "text"       : "‘When I reached the Space Center, I asked people where Buzz Aldrin was, and they pointed to a tall, white tower. When I got closer to the tower, I saw that it was a very strange building. It was completely round, and had no windows. Clouds of white smoke emerged from under the tower. \nI scratched my forehead in amazement. 'Is this Buzz Aldrin's house?' I thought to myself, 'I've never heard of someone living in a tower like this. Where's the door? How do you get in?' I saw a blue arrow, and decided to follow where it pointed around the tower.",
+          "audio"      : "Page4.mp3"},
+          
+        {
+          "text"       : "On the other side of the tower I discovered a steep set of white stairs. 'The stairs must lead to the entrance door,' I thought. So, I climbed up the staircase. And I climbed, and climbed! Another floor and another floor...I puffed heavily like an old steam engine. The stairs twisted around the tower, and I couldn't see the end of it. The ground was far beneath me, and the people below looked as small as ants.\nI finally found myself in front of a small, round door. I wiped the sweat off my forehead, arranged my hat and knocked on the door. 'Who's there?' a voice from the inside asked.",
+          "audio"      : "Page5.mp3"},
+          
+        {
+          "text"       : "I went inside, and found myself in a room with walls covered in flashing buttons and colorful light bulbs. In the room, there were three people dressed in white space suits.\n'Hi! Who are you?' one of them asked me. 'I'm Benny, the mailman,' I answered, 'I have a package to deliver to Mr. Buzz Aldrin. And who are you, if I may ask?' ‘We are Buzz, Neil and Michael and we're astronauts.' they replied, introducing  themselves. 'Astronauts?' I asked, 'what do you mean?...’ Before they could answer, there was a deafening sound – like a lion's roar – maybe even a dinosaur's. The entire room began to tremble! \n‘Hold on tight Benny,’ Buzz said to me, ‘we're taking off!’ ‘Taking off?! Where to?’ I asked. \n‘To the moon, of course!’ replied the astronaut. ",
+          "audio"      : "Page6.mp3"},
+          
+        {
+          "text"       : "Only then, did I understand for the first time that the white tower was not a tower – but rather a huge rocket that launches spaceships into space. I sat on an empty chair, and held on with all my might. A large stream of orange fire came out of the bottom of the rocket and sent us hurtling towards the sky. Planet Earth moved farther away beneath us.’ ",
+          "audio"      : "Page7.mp3"},
+          
+        {
+          "text"       : "‘A few minutes later, the rocket fire extinguished, and the spaceship stopped trembling. We saw the magnificent round, blue Earth from the shuttle window. I got up off the chair, and to my surprise I floated in the air, as light as a feather! I understood that we were now in space.\nThe three astronauts floated around me. They told me that the name of the shuttle was 'Apollo 11'. \nBuzz looked at the egg that I gave him. ‘It's from my uncle,’ he said, ‘he researches birds in the South American forests, and once in a while, sends me interesting specimens. Benny, will you please watch the egg for me until we return to Earth?’ I happily obliged. I love animals.",
+          "audio"      : "Page8.mp3"},
+          
+        {
+          "text"       : "‘I put the egg in my mailbag, and made sure that it was in a warm and cozy spot, just like in a bird nest. On the second day of the journey we heard tapping from inside the egg. After a while, we saw a small beak sticking out of a crack in the shell, and then a small, cute chick with gray feathers and a yellowish beak broke through. We decided to call him 'Eagle'. Eagle and I got along wonderfully from the beginning. I fed him, petted his soft feathers and brushed him, and he would rub against me and eat breadcrumbs from my hand. We became good friends.’",
+          "audio"      : "Page9.mp3"},
+          
+        {
+          "text"       : "‘The next day we were already very close to the moon, and our spaceship split into two smaller ships. Michael stayed to look after one of the ships and Eagle, Buzz, Neil and I squeezed into the second ship which was going to land on the moon. I was very excited: I had never visited the moon before!’",
+          "audio"      : "Page10.mp3"},
+          
+        {
+          "text"       : "‘The small ship got closer to the moon. Suddenly there was a beep of an alarm and a red light began flashing. \n'What is wrong?' I asked Buzz. \n'Oh no,' said Buzz in a worried voice, 'there's a malfunction – we are about to run out of air!' 'Maybe we'll open a window?' I suggested. 'We can't,' said Neil, 'There's no air in outer space. We have to find our other air tank, and fast!'",
+          "audio"      : "Page11.mp3"},
+          
+        {
+          "text"       : "‘We searched and searched and finally found the air tank. But we still had a problem: The tank's power button was very high, and we didn't have a ladder to reach it. \nSuddenly, I had an idea. I put my hand in the mailbag and took Eagle out. The small chick looked at me nervously, as if he understood that something was wrong. 'Eagle, you have to help us!' I said, pointing to the air tank. 'There, above the refrigerator, there's a silver cylinder with a red button on it. Fly to it and press the button!'",
+          "audio"      : "Page12.mp3"},
+          
+        {
+          "text"       : "‘The small chick spread his tiny wings and flew upwards. He rolled in the air, somersaulted twice and finally straightened out. 'Come on, Eagle!' I encouraged. Eagle flew higher and higher and then dove down onto the button. Fresh air whooshed out of the large tank and quickly filled the room. \n'Hurray! We’re saved! Eagle landed on the button!' called Neil and Buzz happily. Our spaceship landed, and its legs settled gently on the moon. ",
+          "audio"      : "Page13.mp3"},
+          
+        {
+          "text"       : "Neil and Buzz put on their helmets and exited the spaceship. I looked outside the window and directed them as they climbed cautiously down the ladder. 'Take one small step, Neil!' I instructed the spaceship commander, 'and now…one huge leap. Very good!' Neil and Buzz walked on the moon, and visited the various craters on its surface. \n‘Why didn't you join them, Grandpa?’ asked David. ‘Because I didn't bring a space suit,’ explained Grandpa Benny. ‘You see, I didn't think we'd take off to the moon!’. ‘And were you jealous of them?’ asked Maya. ‘A little,’ Grandpa admitted, ‘but Neil and Buzz brought me a present when they returned to the spaceship: the shiny, black moon stone you saw in the cage.’",
+          "audio"      : "Page14.mp3"},
+          
+        {
+          "text"       : "We took off from the moon, and flew back to Planet Earth. Large parachutes opened above the spaceship, and we floated downwards until we made a gentle landing into the ocean. The navy sent a special boat that picked us up and took us back to the shore. ‘A large crowd of excited people welcomed us. Everyone wanted to shake our hands and praise us on our successful journey to the moon. The newspaper reporters asked a lot of questions. I was very happy to breathe fresh air again and stand on solid and stable ground.’",
+          "audio"      : "Page15.mp3"},
+          
+        {
+          "text"       : "The time came to say goodbye to the astronauts and to go back home. \n'Benny, ‘asked Buzz, ‘you and Eagle are such good friends – maybe you'll take care of him and raise him?' 'Sure, gladly!' I answered. 'Excellent,' Buzz smiled, 'My uncle has already sent me lots of birds, and I'm sure my wife won't object if I give away one parrot. Anyway, she complains that our house looks like a cuckoo's nest.'",
+          "audio"      : "Page16.mp3"},
+          
+        {
+          "text"       : "‘And since then,’ Grandpa Benny concluded, ‘I raised Eagle who became a mature, fine-looking parrot.’ \n‘Grandpa, will we also be able to go to the moon one day?’ asked David. \nGrandpa Benny thought for a while, and his fingers stroked his curly beard. ‘Maybe, maybe. And if not to the moon, then maybe to Mars. I heard that it's really nice there too. But now it's getting late, and we must get ready for bed.’ \nGrandpa Benny and the two children entered the house. The moon shone from far above the cage, and its silvery rays lit the shiny, black stone. ",
+          "audio"      : "Page17.mp3"},
+          
+        {
+          "text"       : "Apollo 11 was launched from the Kennedy Space Center on July 16th, 1969, carrying 3 astronauts: Neil Armstrong (mission commander), Edwin 'Buzz' Aldrin, and Michael Collins.\nAfter a 3-day journey, the spacecraft entered the Moon's orbit. Collins remained in the spacecarft's Command Module, while Armstrong and Aldrin descended to the lunar surface in the Eagle Landing Module. Armstrong landed the Eagle in an area known as 'The Sea of Tranquility', which was thought to be relatively clear of large rocks. Armstrong and Aldrin spent about 2.5 hours on the Moon, conducting several experiments and collecting rocks to bring back to Earth.",
+          "audio"      : "Page18.mp3"}
+        ] 
+    }, 
+    "heb" : {
+      "title": "סבא בני טס לירח",    
+        "about": {
+          "title" : "אודות הפרוייקט",
+          "description" : "קול התבונה היא קהילה בינלאומית של אנשים שחינוך- ובמיוחד בתחומי המדע והטכנולוגיה - חשובים להם. \nמטרת התוכן שאנו יוצרים הי לגרות את הצבא הטבעי של הילדים לידע, ולעודד את היצירתיות שלהם באמצעות סיפורים מרתקים המתאימים לגילם.",
+          "credits_title": "קרדיטים",
+          "credits_text" : "<p>אדווין טרק - מפיק אחראי</p><p>אלכס פריצרט - מפיק אחראי</p><p>רן לוי - כותב ומפתח, קריינות עברית</p><p>דויד גאווין - קריינות אנגלית</p><p>אדוארדו ראיין - תרגום, קריינות ספרדית</p><p>גדעון האק - עריכה</p><p>אליסיה אוגולקובה - עריכה</p><p>AV Records  - Music & Effects</p>"
+        },
+        "path_to_4x3_images"  : "./Images/4by3/",
+        "path_to_16x9_images" : "./Images/16by9/",
+        "path_to_audio"       : "./Audio/",
+        "pages":
+          [
+            {
+            "text"       : "<h1 style='text-align:center'>סבא בני טס לירח</h1><p style='text-align:center'>לחץ על התמונה כדי להתחיל!</p><p style='text-align:center'>(פסססט...אפשר גם להטות את המסך לרוחב)</p>",
+            "audio"      : "Intro_heb.mp3"},
+          
+          {
+            "text"       : "‘ילדים, ארוחת הצהרים מוכנה!’ קראה סבתא רוזה. \nדוד ומאיה נכנסו למטבח. ‘אוף...אפשר לשחק עוד קצת בחצר?’ ביקש דוד. ‘חבל- אם לא תאכלו עכשיו, הקציצות יתקררו!’ אמרה סבתא. \n‘יש לי רעיון,’ אמר סבא בני, ‘אם תאכלו יפה ותסיימו את כל הצלחת- נלך יחד להאכיל את התוכים שבחצר. מה דעתכם?’ ‘כן! להאכיל את התוכים! להאכיל את התוכים!’ קראו מאיה ודוד במקהלה. ‘מצוין,’ חייכה סבתא רוזה, ‘עכשיו שבו לשולחן בבקשה.’",
+            "audio"      : "Page1_heb.mp3"},
+            
+          {
+            "text"       : "אחרי הארוחה יצאנו לחצר עם סבא בני. חתכנו תפוחים, בננות ואגסים והנחנו אותם במגש שבתוך הכלוב. שלושת התוכים קרקרו בשמחה וניקרו את הפירות במקורם. \n‘סבא,’ שאלה מאיה, ‘מה זו האבן השחורה והעגולה שפינת הכלוב?’. ‘זו? זו אבן שהבאתי מהירח לפני המון שנים.’ השיב סבא בני. ‘מהירח? באמת?’ התפלא דוד. ‘כן, בטח. טסתי לשם יחד עם נשרק'ה, התוכי הגדול והאפור. לא סיפרתי לכם על הביקור שלי בירח?’ \n‘לא! ספר לנו!’ ביקשו דוד ומאיה.",
+            "audio"      : "Page2_heb.mp3"},
+            
+          {
+            "text"       : "‘זה קרה לפני המון שנים,’ סיפר סבא בני. ‘הייתי אז דוור צעיר. יום אחד הגיעה לסניף הדואר חבילה מאד לא שגרתית: בתוכה הייתה ביצה קטנה ולבנה. על החבילה נכתב: 'לכבוד מר באז אלדרין, מרכז החלל שבמדינת פלורידה, ארצות הברית של אמריקה.'\n‘כמה מוזר. אף פעם לא שמעתי על מישהו ששולח ביצה בדואר...אבל חבילה היא חבילה! שמתי את הביצה בזהירות בתוך תיק הדואר שלי, בכיס מרופד בצמר גפן, ויצאתי אל מרכז החלל שבפלורידה.’ ",
+            "audio"      : "Page3_heb.mp3"},
+            
+          {
+            "text"       : "‘כשהגעתי למרכז החלל, שאלתי אנשים היכן נמצא מר באז אלדרין, והם הצביעו על מגדל לבן וגבוה. כשהתקרבתי אל המגדל, ראיתי שמדובר בבניין משונה מאד. הוא היה עגול לגמרי, ולא היו בו חלונות כלל. \nתחתית המגדל בקעו עננים של עשן לבן.\nגירדתי במצחי בתימהון. 'זה ביתו של מר אלדרין?' חשבתי לעצמי, 'מימי לא שמעתי על מישהו שגר במגדל כזה. איפה הדלת בכלל? איך נכנסים פנימה?' ראיתי חץ כחול, והחלטתי לעקוב אחריו ולהקיף את המגדל. ",
+            "audio"      : "Page4_heb.mp3"},
+            
+          {
+            "text"       : "בצידו השני של המגדל גיליתי מדרגות לבנות. 'המדרגות ודאי מובילות אל דלת הכניסה,' חשבתי.\nטיפסתי במעלה המדרגות. וטיפסתי. וטיפסתי! עוד קומה, ועוד קומה...התנשמתי והתנשפתי כמו קטר. המדרגות התפתלו סביב המגדל, וחשבתי שכבר לא יהיה להן סוף. הקרקע הייתה רחוקה מתחתי, והאנשים שהלכו עליה היו קטנים כמו נמלים.\n‘לבסוף מצאתי את עצמי מול דלת קטנה ועגולה. ניגבתי את הזיעה ממצחי, סידרתי את הכובע והקשתי על הדלת.\n'מי שם?' שמעתי קול מבפנים.’",
+            "audio"      : "Page6_heb.mp3"},
+            
+          {
+            "text"       : "נכנסתי פנימה, ומצאתי את עצמי בתוך חדר שקירותיו מלאים בכפתורים ונורות צבעוניות. בחדר היו שלושה אנשים, לבושים בחליפות חלל לבנות.\n'שלום! מי אתה?' שאל אותי אחד מהם. 'אני בני, הדוור,' השבתי, 'יש לי חבילה למסור למר באז אלדרין. ומי אתם, אם אפשר לשאול?' ‘אנחנו באז, ניל ומייקל, ואנחנו אסטרונאוטים.' הם הציגו את עצמם. אסטרונאוטים?' שאלתי, 'מה זאת אומרת?...’ אך בדיוק באותו הרגע נשמע רעש מחריש אזניים, כמו שאגה של אריה- אולי אפילו של דינוזאור..כל החדר החל לרעוד!\n‘תחזיק חזק, בני,’ אמר לי באז, ‘אנחנו ממריאים!’ \n‘ממריאים?! לאן?’ שאלתי.\n‘אל הירח, כמובן!’ השיב האסטרואנוט. ",
+            "audio"      : "Page6_heb.mp3"},
+            
+          {
+            "text"       : "'רק אז הבנתי,  בפעם הראשונה, שהמגדל הלבן כלל לא היה מגדל- אלא טיל ענק המשגר חלליות אל החלל. התיישבתי בכסא פנוי, והחזקתי בו בכל כוחי. סילון גדול של אש כתומה בקע מתחתית הטיל ודחף אותנו במהירות אל עבר השמיים. כדור הארץ הלך והתרחק מתחתינו.’",
+            "audio"      : "Page7_heb.mp3"},
+            
+          {
+            "text"       : "‘כעבור כמה דקות כבתה האש, והחללית הפסיקה לרעוד. מחלון החללית ראינו את כדור הארץ העגול והכחול.\nקמתי מהכסא, ולהפתעתי ריחפתי באוויר, קל כמו נוצה! הבנתי שאנחנו בחלל, היכן שכוח המשיכה אינו קיים עוד.\nשלושת האסטרונאוטים ריחפו סביבי. שמה של החללית, הם סיפרו לי, הוא 'אפולו 11'. \nבאז הביט בביצה שנתתי לו. ‘זה מדוד שלי,’ הוא אמר, ‘הוא חוקר ציפורים ביערות דרום אמריקה, ומדי פעם שולח אלי ציפורים מעניינות. בני, האם תוכל בבקשה לשמור על הביצה עבורי עד שנחזור לכדור הארץ?’ \nכמובן שהסכמתי בשמחה. אני אוהב בעלי חיים. ",
+            "audio"      : "Page8_heb.mp3"},
+            
+          {
+            "text"       : "‘שמתי את הביצה בתוך תיק הדואר שלי, ווידאתי שיהיה לה חם ונעים, ממש כמו בקן ציפורים. \n‘ביום השני למסע שמענו נקישות מתוך הביצה. לאחר זמן מה ראינו מקור קטן מבצבץ מתוך סדק בדופן, ואז בקע מתוכה גוזל קטן וחמוד, בעל נוצות אפורות ומקור צהבהב. החלטנו לקרוא לו 'נשר'קה'. אני ונשרק'ה הסתדרנו מצוין מהרגע הראשון. האכלתי אותו, ליטפתי את נוצותיו הרכות וסירקתי אותו, והוא היה מתחכך בי ואוכל פירורי לחם מכף ידי. נעשנו חברים טובים.’",
+            "audio"      : "Page9_heb.mp3"},
+            
+          {
+            "text"       : "‘למחרת כבר היינו קרובים מאד לירח, והחללית שלנו נפרדה לשני חלליות קטנות יותר. מייקל נשאר לרחף בחללית אחת, ואילו אני, נשרק'ה, באז וניל הצטופפנו בחללית השניה שעמדה לנחות על פני הירח. התרגשתי מאד: אף פעם לא ביקרתי על הירח קודם לכן!’",
+            "audio"      : "Page10_heb.mp3"},
+            
+          {
+            "text"       : "‘החללית הקטנה הלכה והתקרבה אל פני הירח. לפתע נשמע צפצוף אזעקה, ונורית אדומה החלה להבהב.\n'מה קרה?' שאלתי את באז.\n 'אוי לא,' אמר באז בקול מודאג, 'יש תקלה בחללית: האוויר עומד להגמר!' 'אולי נפתח חלון?' הצעתי. 'אי אפשר,' אמר ניל, 'אין אוויר בחלל החיצון. אנחנו חייבים למצוא את מיכל האוויר הנוסף שלנו, ומהר!'",
+            "audio"      : "Page11_heb.mp3"},
+            
+          {
+            "text"       : "‘חיפשנו וחיפשנו, ולבסוף מצאנו את מיכל האוויר. אבל עדיין הייתה לנו בעיה: כפתור ההפעלה של המיכל היה גבוה מאד, ולא היה לנו סולם להגיע אליו. \nלפתע עלה במוחי רעיון. הכנסתי את ידי לתיק הדואר, ושלפתי משם את נשר'קה. הגוזל הקטן הביט בי במבט מודאג, כאילו הבין שמשהו לא בסדר. 'נשרק'ה, אתה מוכרח לעזור לנו!' אמרתי, והצבעתי על מיכל האוויר הגבוה. 'שם, מעל המקרר, יש גליל כסוף ועליו כפתור אדום. תעוף אליו ותלחץ על הכפתור!'",
+            "audio"      : "Page12_heb.mp3"},
+            
+          {
+            "text"       : "‘הגוזל הקטן פרש את שתי כנפיו והתרומם. הוא התגלגל באוויר, עשה שתי סלטות ולבסוף התיישר. 'קדימה, נשרק'ה!' עודדתי אותו. נשרק'ה התרומם מעלה מעלה, וממש ברגע האחרון הצליח ללחוץ על הכפתור. אוויר טרי נפלט מתוך המיכל הגדול ומילא את החדר. \n'הידד! ניצלנו! נשרק'ה נחת על הכפתור!' קראו ניל ובאז בשמחה. בדיוק באותו הרגע נחתה גם החללית שלנו, ורגליה נגעו באדמת הירח.",
+            "audio"      : "Page13_heb.mp3"},
+            
+          {
+            "text"       : "ניל ובאז חבשו את הקסדות שלהם, ויצאו מהחללית. הבטתי החוצה מבעד לחלון וכיוונתי אותם כשירדו בזהירות בסולם. 'צעד קטן, ניל!' הדרכתי את מפקד החללית, 'ועכשיו...צעד גדול. יפה מאד!' ניל ובאז הלכו על הירח, וביקרו במכתשים הרבים שעל פניו. \n‘למה לא הצטרפת אליהם, סבא?’ שאל דוד. ‘מכיוון שלא הבאתי איתי חליפת חלל,’ הסביר סבא בני, ‘הרי לא ידעתי שנמריא לירח!’. ‘וקינאת בהם?’ שאלה מאיה. ‘קצת,’ הודה סבא, ‘אבל ניל ובאז הביאו לי מתנה כשחזרו לחללית: את אבן הירח השחורה והמבריקה שראיתם בכלוב.’",
+            "audio"      : "Page14_heb.mp3"},
+            
+          {
+            "text"       : "‘המראנו מפני הירח, וטסנו חזרה לכדור הארץ. מצנחים גדולים נפרשו מעל החללית, וריחפנו לאט לאט עד שנחתנו נחיתה רכה לתוך הים. חיל הים שלח סירה מיוחדת שאספה אותנו והחזירה אותנו אל החוף. \n ‘המון אנשים נרגשים קיבלו את פנינו. כולם רצו ללחוץ את ידינו ולברך אותנו על המסע המוצלח אל הירח. העיתונאים שאלו המון שאלות. אני שמחתי מאד לנשום שוב את האוויר הצח, ולדרוך על קרקע מוצקה ויציבה.’",
+            "audio"      : "Page15_heb.mp3"},
+            
+          {
+            "text"       : "‘הגיעה השעה להיפרד מהאסטרונאוטים ולשוב הביתה. \n'בני,’ שאל אותי באז, ‘אתה ונשרק'ה חברים כל כך טובים- אולי תשמור עליו אתה, ותגדל אותו?' \n'בטח, בשמחה!' השבתי. 'מצוין,' חייך באז, 'דוד שלי כבר שלח אלי הרבה ציפורים, ואני בטוח שאשתי לא תתנגד אם אוותר על תוכי אחד. היא בלאו הכי טוענת שהבית שלנו נראה כמו קן של קוקיה.'",
+            "audio"      : "Page16_heb.mp3"},
+            
+          {
+            "text"       : "‘ומאז,’ סיים סבא בני, ‘נשרק'ה גדל אצלי והפך להיות תוכי בוגר ויפה תואר.’ \n‘סבא, גם אנחנו נוכל להגיע אל הירח יום אחד?’ שאל דוד. סבא בני חשב קצת, ואצבעותיו ליטפו את זקנו המסולסל. ‘יכול להיות, יכול להיות. ואם לא לירח, אולי למאדים. שמעתי שגם שם יפה מאד. אבל כשיו כבר מאוחר, וצריך להתכונן לשינה.’ \nסבא בני ושני הילדים נכנסו אל הבית. מעל הכלוב זרח הירח, וקרניו האירו את האבן השחורה המבריקה.",
+            "audio"      : "Page17_heb.mp3"},
+            
+          {
+            "text"       : "אפולו 11 המריאה ממרכז החלל על שם קנדי ב-16 ביולי, 1969, ועל סיפונה שלושה אסטרונאוטים: ניל ארמסטרונג (מפקד המשימה), אדווין (באז) אולדין ומייקל קולינס.\nלאחר מסע בן שלושה ימים, החללית נכנסה למסלול הקפה סביבה הירח. קולינס נותר במודול הפיקוד של החללית, בעוד ארמסטרונג ואולדרין הנחיתו את 'הנשר' באזור המכונה 'ים השלווה', שנחשב לנקי יחסית מסלעים גדולים.\nארמסטרונג ואולדרין בילו שעתיים וחצי על אדמת הירח, ערכו מספר ניסויים מדעיים ואספו סלעים אותם הביאו איתם חזרה לכדור הארץ.",
+            "audio"      : "Page18_heb.mp3"}
+          ] 
+      
+    }
+  }
+}

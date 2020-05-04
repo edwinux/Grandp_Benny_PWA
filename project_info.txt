@@ -1,0 +1,36 @@
+Server 
+######
+Ubuntu, Running Apache2
+domain: books.love.science
+
+Connecting to the server:
+-------------------------
+Use putty to connect via SSH.
+Need to use private SSH key in folder /SSH Auth
+Use CyberDuck to conncet via FTP with same credentials.
+
+Setting up HTTPS:
+-----------------
+Used CertBot to enable https on the server. Instructions -
+https://certbot.eff.org/lets-encrypt/ubuntuother-apache
+
+Renewal should occur automatically.
+
+PWA Caching and Update
+----------------------
+By default, a user has to browse to another site (or kill the
+app) for the service worker to update the files over the network - else
+content will be served from the cache.
+
+Folders
+-------
+Images should be  ./Images/book_name/4by3/page4x3_x.jpg (or similar for 16by9 )
+Audio folder should be: ./Audio/book_name/language/audio_file.mp3 
+
+Languages
+---------
+Language selection is via the config file. The app will look
+for the relevant json file (i.e. if en -> story_en.json)
+For each story, you need to:
+1. update the book name & language in the config file.
+2. Update the manifest file (app name)

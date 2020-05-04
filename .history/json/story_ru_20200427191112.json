@@ -1,0 +1,93 @@
+{
+  "story": 
+    {
+    "title": "Рассказ деда Бэни о полёте на Луну",    
+    "about": {
+      "title" : "The Project",
+      "description" : "'The Voice of Reason' is a global community of individuals who are passionate about children′s education, especially in the field of science and exploration.\nOur content is designed to stimulate children′s thirst for knowledge and encourage creativity through age-appropriate immersive stories, allowing kids to realize their full potential.",
+      "credits_title": "Credits",
+      "credits_text" : "<p>Edwin Terek - Producer</p><p>Alex Pritsert - Producer</p><p>Ran Levi - Author, Developer</p><p>David Gavin - Narration</p><p>Eduardo Rayn - Translation & Narration</p><p>Gideon Hack - Editing</p><p>Alesya Ugolkova - Editing</p><p>AV Records  - Music & Effects</p>"
+    },
+    "path_to_4x3_images"  : "./Images/4by3/",
+    "path_to_16x9_images" : "./Images/16by9/",
+    "path_to_audio"       : "./Audio/",
+    "pages": 
+      [
+        {        
+        "text"       : "<h1 style='text-align:center'>Рассказ деда Бэни о полёте на Луну</h1><p style='text-align:center'>Нажмите на изображение, чтобы начать рассказ!</p><p style='text-align:center'>(psst..попробуйте наклонить экран горизонтально)</p>",
+        "audio"      : "Intro.mp3"},
+       
+       {
+        "text"       : "Был один из тех чудесных дней, когда мы с моей сестрёнкой Майей гостили у дедушки Бенни и бабушки Розы.\n– Дети! – в самый разгар игры позвала нас бабушка. – Ужин готов. \nНехотя мы отправились на кухню. \n– Бабушка, а можно нам ещё немного поиграть во дворе? – спросил я. \n– Дэвид, если вы не сядете за стол сейчас, всё остынет! – ответила она. \n– У меня есть предложение, – глядя на наши раздосадованные лица, сказал дедушка Бенни. – Если вы поедите как следует, то сразу после ужина мы вместе пойдём во двор кормить попугаев. \n– Да! Кормить попугаев!.. Кормить попугаев!.. – закричали мы с Майей одновременно. \n– Вот и хорошо, – улыбнулась бабушка.",
+        "audio"      : "Page1.mp3"},
+        
+       {
+        "text"       : "Поужинав, мы вышли во двор. Дедушка помог нам нарезать яблоки, бананы и груши. Кусочки фруктов мы сложили в специальный лоток и поставили его в клетку с попугаями. Попугаев было трое: два зелёных и один серый. Они с радостью принялись за еду. Наблюдая за ними, Майя вдруг заметила в клетке странный круглый камень. \n– Дедушка, что это? – спросила она. \n – О, это необычный камень, – проследив за её взглядом, а затем загадочно посмотрев на нас, сказал дедушка Бенни. – Много лет назад я привёз его с Луны. \n– С Луны? – я был так удивлён, что не поверил своим ушам. \n– Да. Пришлось слетать туда, а назад я вернулся вон с тем серым попугаем и с этим чёрным камнем… Неужели я не рассказывал вам о своём полёте на Луну? \n– Нет! Расскажи! Расскажи! – в один голос стали упрашивать его мы.",
+        "audio"      : "Page2.mp3"},
+        
+       {
+        "text"       : "– Это было давно, – начал свой рассказ дедушка Бенни, когда мы с Майей удобно устроились на качелях. – В 1969 году. Я тогда работал почтальоном. В один жаркий июньский день к нам в отделение поступила весьма необычная посылка. Только представьте! В маленькой коробочке лежало яйцо. Настоящее птичье яйцо! Его следовало доставить некому господину Баззу Олдрину. Адрес был написан неразборчиво, и мне помог разобрать почерк один мой знакомый. «Космический центр Кеннеди, Флорида, Соединённые Штаты Америки», – прочитал он. \nНедолго думая, я бережно упаковал яйцо, положил его в свою почтовую сумку и отправился во Флориду.",
+        "audio"      : "Page3.mp3"},
+        
+       {
+        "text"       : "Путь был неблизким. И когда я наконец добрался до Космического центра, охранник у входа остановил меня. \n– Куда вы, сэр? \n– У меня посылка для Базза Олдрина, – объяснил я ему. – Где я могу его найти? \n – Он там, – охранник махнул рукой в сторону самого высокого здания. – Но не думаю, что вы сможете его сейчас увидеть. \nНе придав этим словам особого значения, я отправился в указанном направлении. Здание находилось очень далеко, но уже издали я заметил, что оно необычной формы. Чем ближе я подходил к нему, тем всё более странным оно мне казалось. Оно походило на башню или толстую трубу с заострённым концом. Из нижней части здания шёл белый дым, а окон и дверей (на первый взгляд) не было вовсе. \nЯ был изумлён. Никогда не слышал, чтобы кто-нибудь жил в таком доме. Обойдя его, я увидел узкую винтовую лестницу, уходящую вверх. Следуя голубой стрелке на стене, я начал подниматься.",
+        "audio"      : "Page4.mp3"},
+        
+       {
+        "text"       : "Подъём по лестнице казался мне бесконечным. Я поднимался и поднимался. Это было ужасно утомительно. Я пыхтел, как паровоз, и обливался потом, ноги гудели, но ничто не могло поколебать мою решимость доставить посылку. Ведь это долг порядочного почтальона! Ещё ступенька, ещё две, три, четыре, десять… Лестница обвивалась вокруг башни, словно змея. Земля виднелась далеко внизу, а люди с такой высоты казались крохотными, словно муравьи. \nНаконец я остановился перед небольшой круглой дверью, толкнул её, и она открылась. Я вошёл. Дверь тут же закрылась наглухо, и я услышал очень удивлённый голос: \n– Сэр, вы кто?!",
+        "audio"      : "Page5.mp3"},
+        
+       {
+        "text"       : "В небольшом помещении, стены которого были усеяны какими-то экранами, кнопками и разноцветными лампочками, в креслах сидели трое мужчин, одетых в скафандры. Все они смотрели на меня с явным изумлением. Двое даже привстали. \n– Я принёс посылку для Базза Олдрина, – сообщил я. – А кто вы? \n– Мы астронавты, – гордо сказал один из них. \n– Астронавты? – переспросил я. \n– Да. Астронавты – это американские космонавты, – пояснил он, возвращаясь в кресло. – Я Базз, а это Нил Армстронг и Майкл Коллинз. Но… позже разберёмся с посылкой. Сядьте скорее. И будьте осторожны, мы…\nОн не успел договорить, потому что в этот момент раздался страшный шум, грохот, рёв. Я в ужасе подумал, что это рёв льва или даже динозавра! Вся комната затряслась, и я едва удержался на ногах. \n–…мы взлетаем! – закончил Базз Олдрин. \n– Как?! Куда?! – воскликнул я. \n– На Луну! – радостно ответил он. ",
+        "audio"      : "Page6.mp3"},
+        
+       {
+        "text"       : "Только теперь я понял, что оказался не в доме и не в башне, а в самом настоящем космическом корабле. \n– Дедушка, а как космический корабль попадает в космос? – спросил я. \n– Обычно космический корабль состоит из двух частей. Из большой части, которая называется ракетой-носителем, и маленькой – то есть из самого корабля. Ракета-носитель названа так не случайно. Именно она несёт корабль в космос, помогая ему оторваться от Земли и преодолеть огромное расстояние. При этом топливо, которое находится в ракете, сгорает. Да и сама ракета сгорает. Так что в космос попадает только космический корабль. \n– Но что же было дальше? – не выдержала Майя, и дедушка продолжил: \n– Скорость всё нарастала. Я опустился в свободное кресло как раз вовремя. Моё тело стало таким тяжёлым, как будто на меня навалился слон, а сумка словно наполнилась камнями... И мы оторвались от Земли.",
+        "audio"      : "Page7.mp3"},
+        
+       {
+        "text"       : "‘A few minutes later, the rocket fire extinguished, and the spaceship stopped trembling. We saw the magnificent round, blue Earth from the shuttle window. I got up off the chair, and to my surprise I floated in the air, as light as a feather! I understood that we were now in space.\nThe three astronauts floated around me. They told me that the name of the shuttle was 'Apollo 11'. \nBuzz looked at the egg that I gave him. ‘It's from my uncle,’ he said, ‘he researches birds in the South American forests, and once in a while, sends me interesting specimens. Benny, will you please watch the egg for me until we return to Earth?’ I happily obliged. I love animals.",
+        "audio"      : "Page8.mp3"},
+        
+       {
+        "text"       : "‘I put the egg in my mailbag, and made sure that it was in a warm and cozy spot, just like in a bird nest. On the second day of the journey we heard tapping from inside the egg. After a while, we saw a small beak sticking out of a crack in the shell, and then a small, cute chick with gray feathers and a yellowish beak broke through. We decided to call him 'Eagle'. Eagle and I got along wonderfully from the beginning. I fed him, petted his soft feathers and brushed him, and he would rub against me and eat breadcrumbs from my hand. We became good friends.’",
+        "audio"      : "Page9.mp3"},
+        
+       {
+        "text"       : "‘The next day we were already very close to the moon, and our spaceship split into two smaller ships. Michael stayed to look after one of the ships and Eagle, Buzz, Neil and I squeezed into the second ship which was going to land on the moon. I was very excited: I had never visited the moon before!’",
+        "audio"      : "Page10.mp3"},
+        
+       {
+        "text"       : "‘The small ship got closer to the moon. Suddenly there was a beep of an alarm and a red light began flashing. \n'What is wrong?' I asked Buzz. \n'Oh no,' said Buzz in a worried voice, 'there's a malfunction – we are about to run out of air!' 'Maybe we'll open a window?' I suggested. 'We can't,' said Neil, 'There's no air in outer space. We have to find our other air tank, and fast!'",
+        "audio"      : "Page11.mp3"},
+        
+       {
+        "text"       : "‘We searched and searched and finally found the air tank. But we still had a problem: The tank's power button was very high, and we didn't have a ladder to reach it. \nSuddenly, I had an idea. I put my hand in the mailbag and took Eagle out. The small chick looked at me nervously, as if he understood that something was wrong. 'Eagle, you have to help us!' I said, pointing to the air tank. 'There, above the refrigerator, there's a silver cylinder with a red button on it. Fly to it and press the button!'",
+        "audio"      : "Page12.mp3"},
+        
+       {
+        "text"       : "‘The small chick spread his tiny wings and flew upwards. He rolled in the air, somersaulted twice and finally straightened out. 'Come on, Eagle!' I encouraged. Eagle flew higher and higher and then dove down onto the button. Fresh air whooshed out of the large tank and quickly filled the room. \n'Hurray! We’re saved! Eagle landed on the button!' called Neil and Buzz happily. Our spaceship landed, and its legs settled gently on the moon. ",
+        "audio"      : "Page13.mp3"},
+        
+       {
+        "text"       : "Neil and Buzz put on their helmets and exited the spaceship. I looked outside the window and directed them as they climbed cautiously down the ladder. 'Take one small step, Neil!' I instructed the spaceship commander, 'and now…one huge leap. Very good!' Neil and Buzz walked on the moon, and visited the various craters on its surface. \n‘Why didn't you join them, Grandpa?’ asked David. ‘Because I didn't bring a space suit,’ explained Grandpa Benny. ‘You see, I didn't think we'd take off to the moon!’. ‘And were you jealous of them?’ asked Maya. ‘A little,’ Grandpa admitted, ‘but Neil and Buzz brought me a present when they returned to the spaceship: the shiny, black moon stone you saw in the cage.’",
+        "audio"      : "Page14.mp3"},
+        
+       {
+        "text"       : "We took off from the moon, and flew back to Planet Earth. Large parachutes opened above the spaceship, and we floated downwards until we made a gentle landing into the ocean. The navy sent a special boat that picked us up and took us back to the shore. ‘A large crowd of excited people welcomed us. Everyone wanted to shake our hands and praise us on our successful journey to the moon. The newspaper reporters asked a lot of questions. I was very happy to breathe fresh air again and stand on solid and stable ground.’",
+        "audio"      : "Page15.mp3"},
+        
+       {
+        "text"       : "The time came to say goodbye to the astronauts and to go back home. \n'Benny, ‘asked Buzz, ‘you and Eagle are such good friends – maybe you'll take care of him and raise him?' 'Sure, gladly!' I answered. 'Excellent,' Buzz smiled, 'My uncle has already sent me lots of birds, and I'm sure my wife won't object if I give away one parrot. Anyway, she complains that our house looks like a cuckoo's nest.'",
+        "audio"      : "Page16.mp3"},
+        
+       {
+        "text"       : "‘And since then,’ Grandpa Benny concluded, ‘I raised Eagle who became a mature, fine-looking parrot.’ \n‘Grandpa, will we also be able to go to the moon one day?’ asked David. \nGrandpa Benny thought for a while, and his fingers stroked his curly beard. ‘Maybe, maybe. And if not to the moon, then maybe to Mars. I heard that it's really nice there too. But now it's getting late, and we must get ready for bed.’ \nGrandpa Benny and the two children entered the house. The moon shone from far above the cage, and its silvery rays lit the shiny, black stone. ",
+        "audio"      : "Page17.mp3"},
+        
+       {
+        "text"       : "Apollo 11 was launched from the Kennedy Space Center on July 16th, 1969, carrying 3 astronauts: Neil Armstrong (mission commander), Edwin 'Buzz' Aldrin, and Michael Collins.\nAfter a 3-day journey, the spacecraft entered the Moon's orbit. Collins remained in the spacecarft's Command Module, while Armstrong and Aldrin descended to the lunar surface in the Eagle Landing Module. Armstrong landed the Eagle in an area known as 'The Sea of Tranquility', which was thought to be relatively clear of large rocks. Armstrong and Aldrin spent about 2.5 hours on the Moon, conducting several experiments and collecting rocks to bring back to Earth.",
+        "audio"      : "Page18.mp3"}
+      ] 
+   }
+}

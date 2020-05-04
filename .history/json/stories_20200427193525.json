@@ -1,0 +1,98 @@
+{
+
+  "moon" : {
+    
+  }
+
+  "story": 
+    {
+    "title": "Grandp Benny Flies To The Moon",    
+    "about": {
+      "title" : "The Project",
+      "description" : "'The Voice of Reason' is a global community of individuals who are passionate about children′s education, especially in the field of science and exploration.\nOur content is designed to stimulate children′s thirst for knowledge and encourage creativity through age-appropriate immersive stories, allowing kids to realize their full potential.",
+      "credits_title": "Credits",
+      "credits_text" : "<p>Edwin Terek - Producer</p><p>Alex Pritsert - Producer</p><p>Ran Levi - Author, Developer</p><p>David Gavin - Narration</p><p>Eduardo Rayn - Translation & Narration</p><p>Gideon Hack - Editing</p><p>Alesya Ugolkova - Editing</p><p>AV Records  - Music & Effects</p>"
+    },
+    "path_to_4x3_images"  : "./Images/4by3/",
+    "path_to_16x9_images" : "./Images/16by9/",
+    "path_to_audio"       : "./Audio/",
+    "pages": 
+      [
+        {        
+        "text"       : "<h1 style='text-align:center'>Grandpa Benny Flies To The Moon</h1><p style='text-align:center'>Tap the image to start the story!</p><p style='text-align:center'>(psst..try tilting the screen horizontaly)</p>",
+        "audio"      : "Intro.mp3"},
+       
+       {
+        "text"       : "‘Children, lunch is ready!’ called Grandma Rosa. \nDavid and Maya entered the kitchen. ‘Please, can we play in the yard a little longer?’ asked David. ‘If you don't eat now, the burgers will get cold!’ said grandma.\n‘I have an idea,’ said Grandpa Benny, ‘if you eat well and finish the entire plate, we’ll go and feed the parrots in the yard. What do you say?’\n‘Yes! Feed the parrots! Feed the parrots!’ called Maya and David excitedly. ‘Great,’ Grandma Rosa smiled, ‘now please sit at the table.’",
+        "audio"      : "Page1.mp3"},
+        
+       {
+        "text"       : "After the meal we went out to the yard with Grandpa Benny. We cut apples, bananas and pears and put them on a tray inside the cage. The three parrots happily  squawked and pecked at the fruits with their beaks. \n‘Grandpa,’ asked Maya, ‘what is that round, black stone at the corner of the cage?’  ‘This? This is a stone I brought back from the moon many years ago.’ replied Grandpa Benny. ‘From the moon? Really?’ asked David in surprise. ‘Yeah, sure. I flew there with Eagle, the big, gray parrot. I haven't told you about my trip to the moon?’ ‘No! Tell us!’ urged David and Maya.",
+        "audio"      : "Page2.mp3"},
+        
+       {
+        "text"       : "‘It happened many years ago,״ Grandpa Benny said. ״I was a young mailman then. One day, a very strange package arrived at the post office: there was a small, white egg inside it. On the package was written: 'To Buzz Aldrin, the Kennedy Space Center, Florida, USA.׳ \nHow strange. I'd never heard of someone sending an egg by mail....but a package is a package! I carefully put the egg in my mailbag inside a cotton-padded pocket, and off to Florida I went.״",
+        "audio"      : "Page3.mp3"},
+        
+       {
+        "text"       : "‘When I reached the Space Center, I asked people where Buzz Aldrin was, and they pointed to a tall, white tower. When I got closer to the tower, I saw that it was a very strange building. It was completely round, and had no windows. Clouds of white smoke emerged from under the tower. \nI scratched my forehead in amazement. 'Is this Buzz Aldrin's house?' I thought to myself, 'I've never heard of someone living in a tower like this. Where's the door? How do you get in?' I saw a blue arrow, and decided to follow where it pointed around the tower.",
+        "audio"      : "Page4.mp3"},
+        
+       {
+        "text"       : "On the other side of the tower I discovered a steep set of white stairs. 'The stairs must lead to the entrance door,' I thought. So, I climbed up the staircase. And I climbed, and climbed! Another floor and another floor...I puffed heavily like an old steam engine. The stairs twisted around the tower, and I couldn't see the end of it. The ground was far beneath me, and the people below looked as small as ants.\nI finally found myself in front of a small, round door. I wiped the sweat off my forehead, arranged my hat and knocked on the door. 'Who's there?' a voice from the inside asked.",
+        "audio"      : "Page5.mp3"},
+        
+       {
+        "text"       : "I went inside, and found myself in a room with walls covered in flashing buttons and colorful light bulbs. In the room, there were three people dressed in white space suits.\n'Hi! Who are you?' one of them asked me. 'I'm Benny, the mailman,' I answered, 'I have a package to deliver to Mr. Buzz Aldrin. And who are you, if I may ask?' ‘We are Buzz, Neil and Michael and we're astronauts.' they replied, introducing  themselves. 'Astronauts?' I asked, 'what do you mean?...’ Before they could answer, there was a deafening sound – like a lion's roar – maybe even a dinosaur's. The entire room began to tremble! \n‘Hold on tight Benny,’ Buzz said to me, ‘we're taking off!’ ‘Taking off?! Where to?’ I asked. \n‘To the moon, of course!’ replied the astronaut. ",
+        "audio"      : "Page6.mp3"},
+        
+       {
+        "text"       : "Only then, did I understand for the first time that the white tower was not a tower – but rather a huge rocket that launches spaceships into space. I sat on an empty chair, and held on with all my might. A large stream of orange fire came out of the bottom of the rocket and sent us hurtling towards the sky. Planet Earth moved farther away beneath us.’ ",
+        "audio"      : "Page7.mp3"},
+        
+       {
+        "text"       : "‘A few minutes later, the rocket fire extinguished, and the spaceship stopped trembling. We saw the magnificent round, blue Earth from the shuttle window. I got up off the chair, and to my surprise I floated in the air, as light as a feather! I understood that we were now in space.\nThe three astronauts floated around me. They told me that the name of the shuttle was 'Apollo 11'. \nBuzz looked at the egg that I gave him. ‘It's from my uncle,’ he said, ‘he researches birds in the South American forests, and once in a while, sends me interesting specimens. Benny, will you please watch the egg for me until we return to Earth?’ I happily obliged. I love animals.",
+        "audio"      : "Page8.mp3"},
+        
+       {
+        "text"       : "‘I put the egg in my mailbag, and made sure that it was in a warm and cozy spot, just like in a bird nest. On the second day of the journey we heard tapping from inside the egg. After a while, we saw a small beak sticking out of a crack in the shell, and then a small, cute chick with gray feathers and a yellowish beak broke through. We decided to call him 'Eagle'. Eagle and I got along wonderfully from the beginning. I fed him, petted his soft feathers and brushed him, and he would rub against me and eat breadcrumbs from my hand. We became good friends.’",
+        "audio"      : "Page9.mp3"},
+        
+       {
+        "text"       : "‘The next day we were already very close to the moon, and our spaceship split into two smaller ships. Michael stayed to look after one of the ships and Eagle, Buzz, Neil and I squeezed into the second ship which was going to land on the moon. I was very excited: I had never visited the moon before!’",
+        "audio"      : "Page10.mp3"},
+        
+       {
+        "text"       : "‘The small ship got closer to the moon. Suddenly there was a beep of an alarm and a red light began flashing. \n'What is wrong?' I asked Buzz. \n'Oh no,' said Buzz in a worried voice, 'there's a malfunction – we are about to run out of air!' 'Maybe we'll open a window?' I suggested. 'We can't,' said Neil, 'There's no air in outer space. We have to find our other air tank, and fast!'",
+        "audio"      : "Page11.mp3"},
+        
+       {
+        "text"       : "‘We searched and searched and finally found the air tank. But we still had a problem: The tank's power button was very high, and we didn't have a ladder to reach it. \nSuddenly, I had an idea. I put my hand in the mailbag and took Eagle out. The small chick looked at me nervously, as if he understood that something was wrong. 'Eagle, you have to help us!' I said, pointing to the air tank. 'There, above the refrigerator, there's a silver cylinder with a red button on it. Fly to it and press the button!'",
+        "audio"      : "Page12.mp3"},
+        
+       {
+        "text"       : "‘The small chick spread his tiny wings and flew upwards. He rolled in the air, somersaulted twice and finally straightened out. 'Come on, Eagle!' I encouraged. Eagle flew higher and higher and then dove down onto the button. Fresh air whooshed out of the large tank and quickly filled the room. \n'Hurray! We’re saved! Eagle landed on the button!' called Neil and Buzz happily. Our spaceship landed, and its legs settled gently on the moon. ",
+        "audio"      : "Page13.mp3"},
+        
+       {
+        "text"       : "Neil and Buzz put on their helmets and exited the spaceship. I looked outside the window and directed them as they climbed cautiously down the ladder. 'Take one small step, Neil!' I instructed the spaceship commander, 'and now…one huge leap. Very good!' Neil and Buzz walked on the moon, and visited the various craters on its surface. \n‘Why didn't you join them, Grandpa?’ asked David. ‘Because I didn't bring a space suit,’ explained Grandpa Benny. ‘You see, I didn't think we'd take off to the moon!’. ‘And were you jealous of them?’ asked Maya. ‘A little,’ Grandpa admitted, ‘but Neil and Buzz brought me a present when they returned to the spaceship: the shiny, black moon stone you saw in the cage.’",
+        "audio"      : "Page14.mp3"},
+        
+       {
+        "text"       : "We took off from the moon, and flew back to Planet Earth. Large parachutes opened above the spaceship, and we floated downwards until we made a gentle landing into the ocean. The navy sent a special boat that picked us up and took us back to the shore. ‘A large crowd of excited people welcomed us. Everyone wanted to shake our hands and praise us on our successful journey to the moon. The newspaper reporters asked a lot of questions. I was very happy to breathe fresh air again and stand on solid and stable ground.’",
+        "audio"      : "Page15.mp3"},
+        
+       {
+        "text"       : "The time came to say goodbye to the astronauts and to go back home. \n'Benny, ‘asked Buzz, ‘you and Eagle are such good friends – maybe you'll take care of him and raise him?' 'Sure, gladly!' I answered. 'Excellent,' Buzz smiled, 'My uncle has already sent me lots of birds, and I'm sure my wife won't object if I give away one parrot. Anyway, she complains that our house looks like a cuckoo's nest.'",
+        "audio"      : "Page16.mp3"},
+        
+       {
+        "text"       : "‘And since then,’ Grandpa Benny concluded, ‘I raised Eagle who became a mature, fine-looking parrot.’ \n‘Grandpa, will we also be able to go to the moon one day?’ asked David. \nGrandpa Benny thought for a while, and his fingers stroked his curly beard. ‘Maybe, maybe. And if not to the moon, then maybe to Mars. I heard that it's really nice there too. But now it's getting late, and we must get ready for bed.’ \nGrandpa Benny and the two children entered the house. The moon shone from far above the cage, and its silvery rays lit the shiny, black stone. ",
+        "audio"      : "Page17.mp3"},
+        
+       {
+        "text"       : "Apollo 11 was launched from the Kennedy Space Center on July 16th, 1969, carrying 3 astronauts: Neil Armstrong (mission commander), Edwin 'Buzz' Aldrin, and Michael Collins.\nAfter a 3-day journey, the spacecraft entered the Moon's orbit. Collins remained in the spacecarft's Command Module, while Armstrong and Aldrin descended to the lunar surface in the Eagle Landing Module. Armstrong landed the Eagle in an area known as 'The Sea of Tranquility', which was thought to be relatively clear of large rocks. Armstrong and Aldrin spent about 2.5 hours on the Moon, conducting several experiments and collecting rocks to bring back to Earth.",
+        "audio"      : "Page18.mp3"}
+      ] 
+   }
+}

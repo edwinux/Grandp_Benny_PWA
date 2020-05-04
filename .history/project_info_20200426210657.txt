@@ -1,0 +1,57 @@
+Gradpa Benny PWA app
+----------------------
+Author: Ran Levi
+Version: 1.01, 25.04.2020
+
+This is a PWA built with Swiper JS and Bulma.io. 
+It is designed as a single common app that can be customized
+for different stories and langutes based on json files.
+
+Ver. 1.01 (26.4.2020):
+- Change images to different ratios according to orientation.
+- modified the code for smaller JSON sizes.
+
+
+todo: 
+font size
+
+
+
+
+Server 
+######
+Ubuntu, Running Apache2
+domain: books.love.science
+
+Connecting to the server:
+-------------------------
+Use putty to connect via SSH.
+Need to use private SSH key in folder /SSH Auth
+Use CyberDuck to conncet via FTP with same credentials.
+
+Setting up HTTPS:
+-----------------
+Used CertBot to enable https on the server. Instructions -
+https://certbot.eff.org/lets-encrypt/ubuntuother-apache
+
+Renewal should occur automatically.
+
+PWA Caching and Update
+----------------------
+By default, a user has to browse to another site (or kill the
+app) for the service worker to update the files over the network - else
+content will be served from the cache.
+
+Folders
+-------
+Each story has it's own folder on the server (e.g. /moon_en/)
+
+Languages
+---------
+Language selection is via the config file. The app will look
+for the relevant json file (i.e. if en -> story_en.json)
+For each story, you need to:
+1. update the language in the config file.
+2. place the story_xx.json file in the Json directory
+3. replace the images and audio files (make sure the story_xx.json points to them).
+4. Update the manifest file (app name)
