@@ -1,0 +1,18 @@
+{
+    "name": "Grandpa Benny Visits The North Pole (English)",
+    "short_name": "Benny North Pole (En)",
+    "start_url": ".",
+    "display": "fullscreen",
+    "theme_color": "#ef4e2a",
+    "background_color": "#fff",
+    "icons": [{
+      "src": "./icons/icon_192x192_north_pole.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+        "src": "./icons/icon_512x512_north_pole.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }]
+  }

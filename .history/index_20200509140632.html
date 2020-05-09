@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html id="html_tag" lang="en" dir="ltr">
+<head>
+  <title id="title"></title>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.8.2/css/bulma.min.css">
+  <script src="https://use.fontawesome.com/releases/v5.3.1/js/all.js" defer></script>
+
+  <link rel="stylesheet" href="https://unpkg.com/swiper/css/swiper.css">
+  <link rel="stylesheet" href="https://unpkg.com/swiper/css/swiper.min.css">
+  <script src="https://unpkg.com/swiper/js/swiper.js"></script>
+  <script src="https://unpkg.com/swiper/js/swiper.min.js"></script>
+
+  <link rel="stylesheet" href="./css/style.css">
+  <script src="./js/script.js" defer></script>  
+
+  <link rel="apple-touch-icon" href="./icon_192x192.png">
+  <meta name="theme-color" content="#ef4e2a">
+
+  <script>
+    let BOOKNAME  = "moon";
+    let BOOK_LANG = "en";
+
+    var link = document.createElement('link');
+    link.rel = "manifest";
+    if (BOOKNAME==="moon"){
+
+      if (BOOK_LANG==="en"){
+        link.href = "./manifests/manifest_moon_en.json";
+      } else if (BOOK_LANG==="heb"){
+        link.href = "./manifests/manifest_moon_heb.json";
+      } else if (BOOK_LANG==="ru"){
+        link.href = "./manifests/manifest_moon_ru.json";
+      }
+    }
+
+    document.getElementsByTagName('head')[0].appendChild(link);
+  </script>
+
+  <!-- <link rel="manifest" href="./manifest_moon_en.json"> -->
+  <!-- <link rel="manifest" href="./manifest_moon_heb.json"> -->
+  <!-- <link rel="manifest" href="./manifest_moon_ru.json"> -->
+  <!-- <link rel="manifest" href="./manifest_galapagos_en.json"> -->
+  <!-- <link rel="manifest" href="./manifest_galapagos_heb.json"> -->
+  <!-- <link rel="manifest" href="./manifest_galapagos_ru.json"> -->
+  <script>
+    if('serviceWorker' in navigator) {
+      navigator.serviceWorker.register('./service_worker_moon_en.js')
+      // navigator.serviceWorker.register('./service_worker_moon_heb.js')
+      // navigator.serviceWorker.register('./service_worker_moon_ru.js')
+      // navigator.serviceWorker.register('./service_worker_galapagos_en.js')
+      // navigator.serviceWorker.register('./service_worker_galapagos_heb.js')
+      // navigator.serviceWorker.register('./service_worker_galapagos_ru.js')
+
+        .then(() => console.log("Service Worker Registered"))
+        .catch(e => console.log(e));
+    }
+  </script>
+
+</head>
+<body>
+
+</body>
+
+  <!-- Bulma.io Nav-Bar -->
+  <nav class="navbar is-dark" role="navigation" aria-label="main navigation">
+    <div class="navbar-brand">
+      <a class="navbar-item">
+        <span class="icon is-medium" id="info_icon">
+          <i class="fas fa-2x fa-info-circle"></i>
+        </span>
+      </a>
+      <a class="navbar-item">
+        <span class="icon is-medium" id="home_icon">
+          <i class="fas fa-2x fa-home"></i>
+        </span>
+      </a>
+      <a class="navbar-item">
+        <span class="icon is-medium" id="text_smaller_icon">
+          <i class="fas fa-font"></i>
+        </span>
+      </a>   
+      <a class="navbar-item">
+        <span class="icon is-medium" id="text_bigger_icon">
+          <i class="fas fa-font fas fa-2x"></i>
+        </span>
+      </a>      
+
+    </div>
+  </nav>
+
+  <!-- Slider main container -->
+  <div id="swiper_container" class="swiper-container">
+    <!-- Additional required wrapper -->
+    <div class="swiper-wrapper">
+            <!-- Slides -->
+    </div>        
+  </div>
+
+  <!-- Bulma.io Modal for 'About' information. -->
+  <div class="modal" id="about_modal">
+    <div class="modal-background"></div>    
+    <div class="modal-card">
+      <header class="modal-card-head">        
+        <button class="delete" id="close_modal_btn" aria-label="close"></button>
+      </header>
+
+      <section class="modal-card-body">
+        <h1 class="title" id="usage_notes_title"></h1> 
+        <h2 class="subtitle" id="screen_timeout_subtitle"></h1>
+        <p id="usage_notes"></p>     
+        <br>
+      
+        <h1 class="title" id="about_title"></h1> 
+        <p id="about_description"></p>
+        <br>
+        <h2 class="subtitle" id="about_credits_title"></h1>
+        <div id="about_credits_text"></div>
+        <br>
+        <div>Version: <span id="version"></span></div>
+      </section> 
+      <section>
+        
+      </section>
+    </div>
+  </div>
+
+</div>
+
+</html>
