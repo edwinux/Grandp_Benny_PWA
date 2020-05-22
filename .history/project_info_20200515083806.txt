@@ -34,37 +34,3 @@ Book Selection
 For each story, you need to:
 1. update the book name & language in the index file.
 2. update the book name & language in the service_worker file.
-
-Version Info
-------------
-Ver. 1.01 (26.4.2020):
- - Change images to different ratios according to orientation.
- - modified the code for smaller JSON sizes.
-
-Ver 1.02 (27.04.2020):
- - Add Version code in the About screen.
- - Add enlarge/reduce font size buttons
- - Add scrollbar on the text area.
-
-Ver 1.03 (27.04.2020)
- - Add Russian support.
-
-Ver 1.04 (27.04.2020)
- - Unify all the story jsons to one.
- - Place all the audio and images in folders,
- easier to create new books.
-
-Ver 1.05 (28.04.2020)
- - Added Galapagos Story
-
-Ver 1.06 (29.04.2020)
- - Added different manifest files for each story/language (comment out in index.html)
-
-Ver 1.07 (9.5.2020)
- Added usage notes.
- Added audio pause during orinentation change, and fixed pause-before-play race condition.
- Fixed Typos
- Modified index, manifest and service worker for easier change of books.
-
-Ver 1.08 (15.5.2020)
- Moved assets to a shared library for all books

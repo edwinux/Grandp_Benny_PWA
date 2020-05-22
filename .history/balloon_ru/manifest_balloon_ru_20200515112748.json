@@ -1,0 +1,18 @@
+{
+    "name": "Grandpa Benny Flies in a Hot Air Balloon (Russian)",
+    "short_name": "Benny Balloon (Ru)",
+    "start_url": ".",
+    "display": "fullscreen",
+    "theme_color": "#ef4e2a",
+    "background_color": "#fff",
+    "icons": [{
+      "src": "./icons/icon_192x192_balloon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+        "src": "./icons/icon_512x512_balloon.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }]
+  }
