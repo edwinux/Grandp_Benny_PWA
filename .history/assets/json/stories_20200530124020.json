@@ -11,7 +11,7 @@
         "title" : "The Project",
         "description" : "'The Voice of Reason' is a global community of individuals who are passionate about children′s education, especially in the field of science and exploration.\nOur content is designed to stimulate children′s thirst for knowledge and encourage creativity through age-appropriate immersive stories, allowing kids to realize their full potential.",
         "credits_title": "Credits",
-        "credits_text" : "<p>Edwin Terek - Producer</p><p>Alex Pritsert - Producer</p><p>Ran Levi - Author, Developer</p><p>Anton Bandarenka - illustrator</p><p>David Gavin - Narration</p><p>Eduardo Rayn - Translation & Narration</p><p>Gideon Hack - Editing</p><p>Alesya Ugolkova - Editing</p><p>AV Records  - Music & Effects</p>"
+        "credits_text" : "<p>Edwin Terek - Producer</p><p>Alex Pritsert - Producer</p><p>Ran Levi - Author, Developer</p><p>David Gavin - Narration</p><p>Eduardo Rayn - Translation & Narration</p><p>Gideon Hack - Editing</p><p>Alesya Ugolkova - Editing</p><p>AV Records  - Music & Effects</p>"
       },
       "num_of_pages" : 19,
       "texts": 
@@ -46,9 +46,9 @@
       },
       "about": {
         "title" : "אודות הפרוייקט",
-        "description" : "קול התבונה היא קהילה בינלאומית של אנשים שחינוך- ובמיוחד בתחומי המדע והטכנולוגיה - חשובים להם. \nמטרת התוכן שאנו יוצרים היא לגרות את הצמא הטבעי של הילדים לידע, ולעודד את היצירתיות שלהם באמצעות סיפורים מרתקים המתאימים לגילם.",
+        "description" : "קול התבונה היא קהילה בינלאומית של אנשים שחינוך- ובמיוחד בתחומי המדע והטכנולוגיה - חשובים להם. \nמטרת התוכן שאנו יוצרים הי לגרות את הצבא הטבעי של הילדים לידע, ולעודד את היצירתיות שלהם באמצעות סיפורים מרתקים המתאימים לגילם.",
         "credits_title": "קרדיטים",
-        "credits_text" : "<p>אדווין טרק - מפיק אחראי</p><p>אלכס פריצרט - מפיק אחראי</p><p>רן לוי - כותב ומפתח, קריינות עברית</p><p>אנטון בנדרנקה - מאייר</p><p>דויד גאווין - קריינות אנגלית</p><p>אדוארדו ראיין - תרגום, קריינות ספרדית</p><p>גדעון האק - עריכה</p><p>אליסיה אוגולקובה - עריכה</p><p>AV Records  - Music & Effects</p>"
+        "credits_text" : "<p>אדווין טרק - מפיק אחראי</p><p>אלכס פריצרט - מפיק אחראי</p><p>רן לוי - כותב ומפתח, קריינות עברית</p><p>דויד גאווין - קריינות אנגלית</p><p>אדוארדו ראיין - תרגום, קריינות ספרדית</p><p>גדעון האק - עריכה</p><p>אליסיה אוגולקובה - עריכה</p><p>AV Records  - Music & Effects</p>"
       },
       "num_of_pages" : 19,
       "texts":
@@ -85,7 +85,7 @@
         "title" : "The Project",
         "description" : "'The Voice of Reason' is a global community of individuals who are passionate about children′s education, especially in the field of science and exploration.\nOur content is designed to stimulate children′s thirst for knowledge and encourage creativity through age-appropriate immersive stories, allowing kids to realize their full potential.",
         "credits_title": "Credits",
-        "credits_text" : "<p>Edwin Terek - Producer</p><p>Alex Pritsert - Producer</p><p>Ran Levi - Author, Developer</p><p>Anton Bandarenka - illustrator</p><p>David Gavin - Narration</p><p>Eduardo Rayn - Translation & Narration</p><p>Gideon Hack - Editing</p><p>Alesya Ugolkova - Editing</p><p>AV Records  - Music & Effects</p>"
+        "credits_text" : "<p>Edwin Terek - Producer</p><p>Alex Pritsert - Producer</p><p>Ran Levi - Author, Developer</p><p>David Gavin - Narration</p><p>Eduardo Rayn - Translation & Narration</p><p>Gideon Hack - Editing</p><p>Alesya Ugolkova - Editing</p><p>AV Records  - Music & Effects</p>"
       },
       "num_of_pages" : 19,
       "texts": 
@@ -161,7 +161,7 @@
         "title"        : "אודות הפרוייקט",
         "description"  : "קול התבונה היא קהילה בינלאומית של אנשים שחינוך- ובמיוחד בתחומי המדע והטכנולוגיה - חשובים להם. \nמטרת התוכן שאנו יוצרים היא לגרות את הצמא הטבעי של הילדים לידע, ולעודד את היצירתיות שלהם באמצעות סיפורים מרתקים המתאימים לגילם.",
         "credits_title": "קרדיטים",
-        "credits_text" : "<p>אדווין טרק - מפיק אחראי</p><p>אלכס פריצרט - מפיק אחראי</p><p>רן לוי - כותב ומפתח, קריינות עברית</p><p>אנטון בנדרנקה - איורים</p><p>דויד גאווין - קריינות אנגלית</p><p>אדוארדו ראיין - תרגום, קריינות ספרדית</p><p>גדעון האק - עריכה</p><p>אליסיה אוגולקובה - עריכה</p><p>AV Records  - Music & Effects</p>"
+        "credits_text" : "<p>אדווין טרק - מפיק אחראי</p><p>אלכס פריצרט - מפיק אחראי</p><p>רן לוי - כותב ומפתח, קריינות עברית</p><p>אנטון בנדרקה - איורים</p><p>דויד גאווין - קריינות אנגלית</p><p>אדוארדו ראיין - תרגום, קריינות ספרדית</p><p>גדעון האק - עריכה</p><p>אליסיה אוגולקובה - עריכה</p><p>AV Records  - Music & Effects</p>"
       },
       "num_of_pages" : 19,
       "texts":
@@ -237,7 +237,7 @@
         "title" : "The Project",
         "description" : "'The Voice of Reason' is a global community of individuals who are passionate about children′s education, especially in the field of science and exploration.\nOur content is designed to stimulate children′s thirst for knowledge and encourage creativity through age-appropriate immersive stories, allowing kids to realize their full potential.",
         "credits_title": "Credits",
-        "credits_text" : "<p>Edwin Terek - Producer</p><p>Alex Pritsert - Producer</p><p>Ran Levi - Author, Developer</p><p>Anton Bandarenka - illustrator</p><p>David Gavin - Narration</p><p>Eduardo Rayn - Translation & Narration</p><p>Gideon Hack - Editing</p><p>Alesya Ugolkova - Editing</p><p>AV Records  - Music & Effects</p>"
+        "credits_text" : "<p>Edwin Terek - Producer</p><p>Alex Pritsert - Producer</p><p>Ran Levi - Author, Developer</p><p>David Gavin - Narration</p><p>Eduardo Rayn - Translation & Narration</p><p>Gideon Hack - Editing</p><p>Alesya Ugolkova - Editing</p><p>AV Records  - Music & Effects</p>"
       },
       "num_of_pages" : 18,
       "texts": 
@@ -271,9 +271,9 @@
       },
       "about": {
         "title" : "אודות הפרוייקט",
-        "description" : "קול התבונה היא קהילה בינלאומית של אנשים שחינוך- ובמיוחד בתחומי המדע והטכנולוגיה - חשובים להם. \nמטרת התוכן שאנו יוצרים היא לגרות את הצמא הטבעי של הילדים לידע, ולעודד את היצירתיות שלהם באמצעות סיפורים מרתקים המתאימים לגילם.",
+        "description" : "קול התבונה היא קהילה בינלאומית של אנשים שחינוך- ובמיוחד בתחומי המדע והטכנולוגיה - חשובים להם. \nמטרת התוכן שאנו יוצרים הי לגרות את הצבא הטבעי של הילדים לידע, ולעודד את היצירתיות שלהם באמצעות סיפורים מרתקים המתאימים לגילם.",
         "credits_title": "קרדיטים",
-        "credits_text" : "<p>אדווין טרק - מפיק אחראי</p><p>אלכס פריצרט - מפיק אחראי</p><p>רן לוי - כותב ומפתח, קריינות עברית</p><p>אנטון בנדרנקה - מאייר</p><p>דויד גאווין - קריינות אנגלית</p><p>אדוארדו ראיין - תרגום, קריינות ספרדית</p><p>גדעון האק - עריכה</p><p>אליסיה אוגולקובה - עריכה</p><p>AV Records  - Music & Effects</p>"
+        "credits_text" : "<p>אדווין טרק - מפיק אחראי</p><p>אלכס פריצרט - מפיק אחראי</p><p>רן לוי - כותב ומפתח, קריינות עברית</p><p>דויד גאווין - קריינות אנגלית</p><p>אדוארדו ראיין - תרגום, קריינות ספרדית</p><p>גדעון האק - עריכה</p><p>אליסיה אוגולקובה - עריכה</p><p>AV Records  - Music & Effects</p>"
       },
       "num_of_pages" : 18,
       "texts":
@@ -309,7 +309,7 @@
         "title" : "The Project",
         "description" : "'The Voice of Reason' is a global community of individuals who are passionate about children′s education, especially in the field of science and exploration.\nOur content is designed to stimulate children′s thirst for knowledge and encourage creativity through age-appropriate immersive stories, allowing kids to realize their full potential.",
         "credits_title": "Credits",
-        "credits_text" : "<p>Edwin Terek - Producer</p><p>Alex Pritsert - Producer</p><p>Ran Levi - Author, Developer</p><p>Anton Bandarenka - illustrator</p><p>David Gavin - Narration</p><p>Eduardo Rayn - Translation & Narration</p><p>Gideon Hack - Editing</p><p>Alesya Ugolkova - Editing</p><p>AV Records  - Music & Effects</p>"
+        "credits_text" : "<p>Edwin Terek - Producer</p><p>Alex Pritsert - Producer</p><p>Ran Levi - Author, Developer</p><p>David Gavin - Narration</p><p>Eduardo Rayn - Translation & Narration</p><p>Gideon Hack - Editing</p><p>Alesya Ugolkova - Editing</p><p>AV Records  - Music & Effects</p>"
       },
       "num_of_pages" : 18,
       "texts": 
@@ -347,7 +347,7 @@
         "title" : "The Project",
         "description" : "'The Voice of Reason' is a global community of individuals who are passionate about children′s education, especially in the field of science and exploration.\nOur content is designed to stimulate children′s thirst for knowledge and encourage creativity through age-appropriate immersive stories, allowing kids to realize their full potential.",
         "credits_title": "Credits",
-        "credits_text" : "<p>Edwin Terek - Producer</p><p>Alex Pritsert - Producer</p><p>Ran Levi - Author, Developer</p><p>Anton Bandarenka - illustrator</p><p>David Gavin - Narration</p><p>Eduardo Rayn - Translation & Narration</p><p>Gideon Hack - Editing</p><p>Alesya Ugolkova - Editing</p><p>AV Records  - Music & Effects</p>"
+        "credits_text" : "<p>Edwin Terek - Producer</p><p>Alex Pritsert - Producer</p><p>Ran Levi - Author, Developer</p><p>David Gavin - Narration</p><p>Eduardo Rayn - Translation & Narration</p><p>Gideon Hack - Editing</p><p>Alesya Ugolkova - Editing</p><p>AV Records  - Music & Effects</p>"
       },
       "num_of_pages" : 19,
       "texts": 
@@ -382,9 +382,9 @@
       },
       "about": {
         "title" : "אודות הפרוייקט",
-        "description" : "קול התבונה היא קהילה בינלאומית של אנשים שחינוך- ובמיוחד בתחומי המדע והטכנולוגיה - חשובים להם. \nמטרת התוכן שאנו יוצרים היא לגרות את הצמא הטבעי של הילדים לידע, ולעודד את היצירתיות שלהם באמצעות סיפורים מרתקים המתאימים לגילם.",
+        "description" : "קול התבונה היא קהילה בינלאומית של אנשים שחינוך- ובמיוחד בתחומי המדע והטכנולוגיה - חשובים להם. \nמטרת התוכן שאנו יוצרים הי לגרות את הצבא הטבעי של הילדים לידע, ולעודד את היצירתיות שלהם באמצעות סיפורים מרתקים המתאימים לגילם.",
         "credits_title": "קרדיטים",
-        "credits_text" : "<p>אדווין טרק - מפיק אחראי</p><p>אלכס פריצרט - מפיק אחראי</p><p>רן לוי - כותב ומפתח, קריינות עברית</p><p>אנטון בנדרנקה - מאייר</p><p>דויד גאווין - קריינות אנגלית</p><p>אדוארדו ראיין - תרגום, קריינות ספרדית</p><p>גדעון האק - עריכה</p><p>אליסיה אוגולקובה - עריכה</p><p>AV Records  - Music & Effects</p>"
+        "credits_text" : "<p>אדווין טרק - מפיק אחראי</p><p>אלכס פריצרט - מפיק אחראי</p><p>רן לוי - כותב ומפתח, קריינות עברית</p><p>דויד גאווין - קריינות אנגלית</p><p>אדוארדו ראיין - תרגום, קריינות ספרדית</p><p>גדעון האק - עריכה</p><p>אליסיה אוגולקובה - עריכה</p><p>AV Records  - Music & Effects</p>"
       },
       "num_of_pages" : 19,
       "texts":
@@ -421,7 +421,7 @@
         "title" : "The Project",
         "description" : "'The Voice of Reason' is a global community of individuals who are passionate about children′s education, especially in the field of science and exploration.\nOur content is designed to stimulate children′s thirst for knowledge and encourage creativity through age-appropriate immersive stories, allowing kids to realize their full potential.",
         "credits_title": "Credits",
-        "credits_text" : "<p>Edwin Terek - Producer</p><p>Alex Pritsert - Producer</p><p>Ran Levi - Author, Developer</p><p>Anton Bandarenka - illustrator</p><p>David Gavin - Narration</p><p>Eduardo Rayn - Translation & Narration</p><p>Gideon Hack - Editing</p><p>Alesya Ugolkova - Editing</p><p>AV Records  - Music & Effects</p>"
+        "credits_text" : "<p>Edwin Terek - Producer</p><p>Alex Pritsert - Producer</p><p>Ran Levi - Author, Developer</p><p>David Gavin - Narration</p><p>Eduardo Rayn - Translation & Narration</p><p>Gideon Hack - Editing</p><p>Alesya Ugolkova - Editing</p><p>AV Records  - Music & Effects</p>"
       },
       "num_of_pages" : 19,
       "texts": 
@@ -460,7 +460,7 @@
         "title" : "The Project",
         "description" : "'The Voice of Reason' is a global community of individuals who are passionate about children′s education, especially in the field of science and exploration.\nOur content is designed to stimulate children′s thirst for knowledge and encourage creativity through age-appropriate immersive stories, allowing kids to realize their full potential.",
         "credits_title": "Credits",
-        "credits_text" : "<p>Edwin Terek - Producer</p><p>Alex Pritsert - Producer</p><p>Ran Levi - Author, Developer</p><p>Anton Bandarenka - illustrator</p><p>David Gavin - Narration</p><p>Eduardo Rayn - Translation & Narration</p><p>Gideon Hack - Editing</p><p>Alesya Ugolkova - Editing</p><p>AV Records  - Music & Effects</p>"
+        "credits_text" : "<p>Edwin Terek - Producer</p><p>Alex Pritsert - Producer</p><p>Ran Levi - Author, Developer</p><p>David Gavin - Narration</p><p>Eduardo Rayn - Translation & Narration</p><p>Gideon Hack - Editing</p><p>Alesya Ugolkova - Editing</p><p>AV Records  - Music & Effects</p>"
       },
       "num_of_pages" : 17,
       "texts": 
@@ -493,9 +493,9 @@
       },
       "about": {
         "title" : "אודות הפרוייקט",
-        "description" : "קול התבונה היא קהילה בינלאומית של אנשים שחינוך- ובמיוחד בתחומי המדע והטכנולוגיה - חשובים להם. \nמטרת התוכן שאנו יוצרים היא לגרות את הצמא הטבעי של הילדים לידע, ולעודד את היצירתיות שלהם באמצעות סיפורים מרתקים המתאימים לגילם.",
+        "description" : "קול התבונה היא קהילה בינלאומית של אנשים שחינוך- ובמיוחד בתחומי המדע והטכנולוגיה - חשובים להם. \nמטרת התוכן שאנו יוצרים הי לגרות את הצבא הטבעי של הילדים לידע, ולעודד את היצירתיות שלהם באמצעות סיפורים מרתקים המתאימים לגילם.",
         "credits_title": "קרדיטים",
-        "credits_text" : "<p>אדווין טרק - מפיק אחראי</p><p>אלכס פריצרט - מפיק אחראי</p><p>רן לוי - כותב ומפתח, קריינות עברית</p><p>אנטון בנדרנקה - מאייר</p><p>דויד גאווין - קריינות אנגלית</p><p>אדוארדו ראיין - תרגום, קריינות ספרדית</p><p>גדעון האק - עריכה</p><p>אליסיה אוגולקובה - עריכה</p><p>AV Records  - Music & Effects</p>"
+        "credits_text" : "<p>אדווין טרק - מפיק אחראי</p><p>אלכס פריצרט - מפיק אחראי</p><p>רן לוי - כותב ומפתח, קריינות עברית</p><p>דויד גאווין - קריינות אנגלית</p><p>אדוארדו ראיין - תרגום, קריינות ספרדית</p><p>גדעון האק - עריכה</p><p>אליסיה אוגולקובה - עריכה</p><p>AV Records  - Music & Effects</p>"
       },
       "num_of_pages" : 17,
       "texts":
@@ -530,7 +530,7 @@
         "title" : "The Project",
         "description" : "'The Voice of Reason' is a global community of individuals who are passionate about children′s education, especially in the field of science and exploration.\nOur content is designed to stimulate children′s thirst for knowledge and encourage creativity through age-appropriate immersive stories, allowing kids to realize their full potential.",
         "credits_title": "Credits",
-        "credits_text" : "<p>Edwin Terek - Producer</p><p>Alex Pritsert - Producer</p><p>Ran Levi - Author, Developer</p><p>Anton Bandarenka - illustrator</p><p>David Gavin - Narration</p><p>Eduardo Rayn - Translation & Narration</p><p>Gideon Hack - Editing</p><p>Alesya Ugolkova - Editing</p><p>AV Records  - Music & Effects</p>"
+        "credits_text" : "<p>Edwin Terek - Producer</p><p>Alex Pritsert - Producer</p><p>Ran Levi - Author, Developer</p><p>David Gavin - Narration</p><p>Eduardo Rayn - Translation & Narration</p><p>Gideon Hack - Editing</p><p>Alesya Ugolkova - Editing</p><p>AV Records  - Music & Effects</p>"
       },
       "num_of_pages" : 17,
       "texts": 
@@ -567,7 +567,7 @@
         "title" : "The Project",
         "description" : "'The Voice of Reason' is a global community of individuals who are passionate about children′s education, especially in the field of science and exploration.\nOur content is designed to stimulate children′s thirst for knowledge and encourage creativity through age-appropriate immersive stories, allowing kids to realize their full potential.",
         "credits_title": "Credits",
-        "credits_text" : "<p>Edwin Terek - Producer</p><p>Alex Pritsert - Producer</p><p>Ran Levi - Author, Developer</p><p>Anton Bandarenka - illustrator</p><p>David Gavin - Narration</p><p>Eduardo Rayn - Translation & Narration</p><p>Gideon Hack - Editing</p><p>Alesya Ugolkova - Editing</p><p>AV Records  - Music & Effects</p>"
+        "credits_text" : "<p>Edwin Terek - Producer</p><p>Alex Pritsert - Producer</p><p>Ran Levi - Author, Developer</p><p>David Gavin - Narration</p><p>Eduardo Rayn - Translation & Narration</p><p>Gideon Hack - Editing</p><p>Alesya Ugolkova - Editing</p><p>AV Records  - Music & Effects</p>"
       },
       "num_of_pages" : 18,
       "texts": 
@@ -601,9 +601,9 @@
       },
       "about": {
         "title" : "אודות הפרוייקט",
-        "description" : "קול התבונה היא קהילה בינלאומית של אנשים שחינוך- ובמיוחד בתחומי המדע והטכנולוגיה - חשובים להם. \nמטרת התוכן שאנו יוצרים היא לגרות את הצמא הטבעי של הילדים לידע, ולעודד את היצירתיות שלהם באמצעות סיפורים מרתקים המתאימים לגילם.",
+        "description" : "קול התבונה היא קהילה בינלאומית של אנשים שחינוך- ובמיוחד בתחומי המדע והטכנולוגיה - חשובים להם. \nמטרת התוכן שאנו יוצרים הי לגרות את הצבא הטבעי של הילדים לידע, ולעודד את היצירתיות שלהם באמצעות סיפורים מרתקים המתאימים לגילם.",
         "credits_title": "קרדיטים",
-        "credits_text" : "<p>אדווין טרק - מפיק אחראי</p><p>אלכס פריצרט - מפיק אחראי</p><p>רן לוי - כותב ומפתח, קריינות עברית</p><p>אנטון בנדרנקה - מאייר</p><p>דויד גאווין - קריינות אנגלית</p><p>אדוארדו ראיין - תרגום, קריינות ספרדית</p><p>גדעון האק - עריכה</p><p>אליסיה אוגולקובה - עריכה</p><p>AV Records  - Music & Effects</p>"
+        "credits_text" : "<p>אדווין טרק - מפיק אחראי</p><p>אלכס פריצרט - מפיק אחראי</p><p>רן לוי - כותב ומפתח, קריינות עברית</p><p>דויד גאווין - קריינות אנגלית</p><p>אדוארדו ראיין - תרגום, קריינות ספרדית</p><p>גדעון האק - עריכה</p><p>אליסיה אוגולקובה - עריכה</p><p>AV Records  - Music & Effects</p>"
       },
       "num_of_pages" : 18,
       "texts":
@@ -639,7 +639,7 @@
         "title" : "The Project",
         "description" : "'The Voice of Reason' is a global community of individuals who are passionate about children′s education, especially in the field of science and exploration.\nOur content is designed to stimulate children′s thirst for knowledge and encourage creativity through age-appropriate immersive stories, allowing kids to realize their full potential.",
         "credits_title": "Credits",
-        "credits_text" : "<p>Edwin Terek - Producer</p><p>Alex Pritsert - Producer</p><p>Ran Levi - Author, Developer</p><p>Anton Bandarenka - illustrator</p><p>David Gavin - Narration</p><p>Eduardo Rayn - Translation & Narration</p><p>Gideon Hack - Editing</p><p>Alesya Ugolkova - Editing</p><p>AV Records  - Music & Effects</p>"
+        "credits_text" : "<p>Edwin Terek - Producer</p><p>Alex Pritsert - Producer</p><p>Ran Levi - Author, Developer</p><p>David Gavin - Narration</p><p>Eduardo Rayn - Translation & Narration</p><p>Gideon Hack - Editing</p><p>Alesya Ugolkova - Editing</p><p>AV Records  - Music & Effects</p>"
       },
       "num_of_pages" : 18,
       "texts": 
@@ -677,7 +677,7 @@
         "title" : "The Project",
         "description" : "'The Voice of Reason' is a global community of individuals who are passionate about children′s education, especially in the field of science and exploration.\nOur content is designed to stimulate children′s thirst for knowledge and encourage creativity through age-appropriate immersive stories, allowing kids to realize their full potential.",
         "credits_title": "Credits",
-        "credits_text" : "<p>Edwin Terek - Producer</p><p>Alex Pritsert - Producer</p><p>Ran Levi - Author, Developer</p><p>Anton Bandarenka - illustrator</p><p>David Gavin - Narration</p><p>Eduardo Rayn - Translation & Narration</p><p>Gideon Hack - Editing</p><p>Alesya Ugolkova - Editing</p><p>AV Records  - Music & Effects</p>"
+        "credits_text" : "<p>Edwin Terek - Producer</p><p>Alex Pritsert - Producer</p><p>Ran Levi - Author, Developer</p><p>David Gavin - Narration</p><p>Eduardo Rayn - Translation & Narration</p><p>Gideon Hack - Editing</p><p>Alesya Ugolkova - Editing</p><p>AV Records  - Music & Effects</p>"
       },
       "num_of_pages" : 20,
       "texts": 
@@ -713,37 +713,37 @@
       },
       "about": {
         "title" : "אודות הפרוייקט",
-        "description" : "קול התבונה היא קהילה בינלאומית של אנשים שחינוך- ובמיוחד בתחומי המדע והטכנולוגיה - חשובים להם. \nמטרת התוכן שאנו יוצרים היא לגרות את הצמא הטבעי של הילדים לידע, ולעודד את היצירתיות שלהם באמצעות סיפורים מרתקים המתאימים לגילם.",
+        "description" : "קול התבונה היא קהילה בינלאומית של אנשים שחינוך- ובמיוחד בתחומי המדע והטכנולוגיה - חשובים להם. \nמטרת התוכן שאנו יוצרים הי לגרות את הצבא הטבעי של הילדים לידע, ולעודד את היצירתיות שלהם באמצעות סיפורים מרתקים המתאימים לגילם.",
         "credits_title": "קרדיטים",
-        "credits_text" : "<p>אדווין טרק - מפיק אחראי</p><p>אלכס פריצרט - מפיק אחראי</p><p>רן לוי - כותב ומפתח, קריינות עברית</p><p>אנטון בנדרנקה - מאייר</p><p>דויד גאווין - קריינות אנגלית</p><p>אדוארדו ראיין - תרגום, קריינות ספרדית</p><p>גדעון האק - עריכה</p><p>אליסיה אוגולקובה - עריכה</p><p>AV Records  - Music & Effects</p>"
+        "credits_text" : "<p>אדווין טרק - מפיק אחראי</p><p>אלכס פריצרט - מפיק אחראי</p><p>רן לוי - כותב ומפתח, קריינות עברית</p><p>דויד גאווין - קריינות אנגלית</p><p>אדוארדו ראיין - תרגום, קריינות ספרדית</p><p>גדעון האק - עריכה</p><p>אליסיה אוגולקובה - עריכה</p><p>AV Records  - Music & Effects</p>"
       },
       "num_of_pages" : 20,
       "texts":
         {
           "page0" : "<h1 style='text-align:center'>סבא בני והרובוטים</h1><p style='text-align:center'>לחץ על התמונה כדי להתחיל!</p><p style='text-align:center'>(פסססט...אפשר גם להטות את המסך לרוחב)</p>",
           "page1" : "דוד, מיה וסבא בני ישבו על הספה, וצפו בטלוויזיה. לפתע נשמע זמזום מפינת החדר. עיגול שחור, עגול ומבריק החליק ברכות למרכז הסלון והחל לנוע הלוך ושוב לאורך הרצפה, משאיר שובל רטוב מאחוריו. דוד ומאיה הביטו במכונה הקטנה, מוקסמים. סבא וסבתא קנו את הרובוט העגול לפני מספר שבועות, והילדים אהבו לראות אותו מתרוצץ ומנקה את רצפת הסלון.לפתע דעך הזמזום, והרובוט הקטן נעצר ודמם. 'מה קרה לרובוט, סבא? מדוע הוא נעצר?' שאל דוד.",
-          "page2" : "'אה...אני חושב שהוא עייף.' השיב סבא בני, 'הנה, אני אחבר אותו לחשמל.’'עייף? מדוע הוא עייף?' שאלה מיה. 'בגלל ההרפתקאה שלנו במפעל היפני.' אמר סבא, 'מה, לא סיפרתי לכם עליה? נו, בטח. בגלל המכה שקיבלתי בראש...שכחתי לגמרי. ’'איזו מכה, סבא? נו, ספר לנו!' קראו הילדים.",
+          "page2" : "'אה...אני חושב שהוא עייף.' השיב סבא בני, 'הנה, אני אחבר אותו לחשמל.’'עייף? מדוע הוא עייף?' שאלה מיה. 'בגלל ההרפתקאה שלנו במפעל היפני.' אמר סבא, 'מה, לא סיפרתי לכם עליה? נו, בטח. בגלל המכה שקיבלתי בראש...שכחתי לגמרי.’'איזו מכה, סבא? נו, ספר לנו!' קראו הילדים.",
           "page3" : "אתמול בבוקר ישבתי בסלון וצפיתי בטלוויזיה. לפתע צלצל הטלפון. היה זה מר סלדון, מנהל סניף הדואר שבו עבדתי במשך שנים ארוכות, בצעירותי.'שלום, מר סלדון! נעים לשמוע את קולך שוב. מה שלומך?' שאלתי.'שלומי טוב, בני - אבל אני זקוק לעזרתך בדחיפות.' אמר מנהל הסניף, 'יש לי חבילה שחייבת להגיע במהירות אל מפעל לייצור מכוניות ביפן, אבל היום מתקיים פסטיבל הבולים השנתי - וכל הדוורים בחופשה. האם תוכל למסור את החבילה?’'ודאי!' אמרתי, 'אני מייד יוצא!’.'הו, רוב תודות, בני - ידעתי שאפשר לסמוך עליך!'.",
           "page4" : "'מיהרתי אל ארון הבגדים, ושלפתי ממנו את מדי הדוור הותיקים ואת תיק הדואר הנאמן שלי. התלבשתי בזריזות ויצאתי מהדלת. פסעתי בשביל, ומיהרתי כל כך עד שלא שמתי לב לענף נמוך שחסם את הדרך. זבונננגג! חטפתי מהענף מכה כואבת מאד במצח. ממש ראיתי כוכבים. התכוונתי להמשיך וללכת, אך לפתע נזכרתי ששכחתי לקחת עימי צידה לדרך, כדי שלא אהיה רעב. חזרתי הביתה, ונכנסתי למטבח. פתחתי את מגירת הירקות, ואספתי כמה גזרים לתוך שקית. לפתע שמעתי קול שמח מכיוון הסלון. 'לנקות, לנקות, לנקות! את כל האבק, לגרש! את כל הלכלוך, לשטוף! לנקות, לנקות, לנקות!’",
           "page5" : "'לא הבנתי מי שר. הסלון היה ריק. הדבר היחיד שראיתי היה הרובוט הקטן, שניקה את הרצפה. 'סליחה? מי שם? מי שר כאן? ' קראתי. 'לנקות, לנקות, לנקות!...' המשיך הקול השמח. הבטתי מטה: היה זה הרובוט הקטן! הוא השמיע את אותו הזמזום שהשמיע תמיד - אך הפעם הצלחתי להבין מנו מילים ומשפטים. הרובוט עצר. 'הי, אתה מבין אותי?! אתה מדבר רובוטית?' הוא שאל, מופתע.'אממ...כן, כנראה שכן.' עניתי, 'קיבלתי מכה חזקה במצח. אולי בגלל זה אני מבין פתאום רובוטית.'",
-          "page6" : "'נעים מאד, אני דניל.' אמר הרובוט הקטן.'נעים גם לי - סבא בני.' השבתי. 'אשמח לשוחח איתך עוד, דניל - אבל אני ממהר מאד. עלי למסור חבילה דחופה למפעל מכוניות ביפן.’'מפעל מכוניות!' קרא דניל, 'קח אותי איתך, סבא בני, בבקשה!’'אתה רוצה להצטרף אלי? מדוע?' שאלתי.'תמיד רציתי לבקר במפעל כזה.' הסביר דניל. 'המון רובוטים עובדים שם. אולי אמצא שם כמה חברים וקרובי משפחה. קח אותי איתך!’ 'בסדר. לפחות לא יהיה לי משעמם בטיסה הארוכה.' הסכמתי, והכנסתי את הרובוט הקטן לתיק הצד שלי.",
-          "page7" : "'הטיסה עברה בנעימים. אני ודניל שוחחנו, ודניל סיפר לי עד כמה שהוא אוהב לנקות ולשטוף את הרצפה, וכמה הוא מאושר כשהרצפה מבריקה ונוצצת.כשהגענו למפעל היפני, הופתעתי לגלות את הדלפק בכניסה ריק ונטוש. 'הלו?' קראתי, 'יש כאן מישהו?' איש לא ענה. כמה משונה, חשבתי לעצמי. 'בני, בוא תראה!' קרא דניל בתלהבות, 'יש כאן המון רובוטים, והם מרכיבים את המכוניות החדשות!'",
-          "page8" : "נכנסנו לתוך המפעל. מאות רובוטים עמדו בשורות ארוכות לצד מסילות. על המסילות נעו עשרות מכוניות שחורות מורכבות למחצה. הרובוטים נעו במהירות ובמיומנות, מרכיבים כסאות, דלתות וגלגלים. 'וואו - תראה כמה מכוניות, וכמה מהר עובדים הרובוטים!' אמר דניל בגאווה. 'דניל,' אמרתי, 'משהו כאן לא בסדר. הבט ברובוטים האלה: הם לא שמחים. הם אולי עובדים מהר, אבל הם נראים לי עצובים.’ 'אתה צודק, סבא בני.' אמר דניל, 'כמה מוזר. רובוטים בדרך כלל שמחים מאד לעשות את מה שעבורו נבנו.'",
-          "page9" : "'סלח לי, מר רובוט,' פניתי לרובוט שעמד קרוב אלי, 'מדוע כולכם כה מדוכדכים? ’הרובוט הגדול הפסיק את פעולתו והסתובב אלינו. 'הסתלקו מכאן!' הוא לחש לנו.'מה אמרת? להסתלק?' שאל דניל המופתע.'ברחו מכאן מהר. לא כדאי לכם להישאר…' 'אבל...למה? מה קרה?' ניסיתי לשאול, אך הרובוט הגדול סב על צירו במהירות וחזר לעבודתו. 'או או!' הוא לחש לנו, 'הוא מגיע! אמרתי לכם שכדאי לברוח!… 'פתחתי את פי כדי לדבר, אך לפתע שמעתי קול מתכתי וקר מאחורינו. 'עצרו! זו פקודה!'.",
-          "page10" : "הסתובבנו וראינו מולנו רובוט שחור וגבוה, דמוי-אנוש. הרובוט הגבוה הביט בנו במבט קפוא.'שלום, אני בני וזה דניל.' הצגתי אותנו, 'באנו למסור לכם חבי..’ 'שקט!' רעם קולו המתכתי של הרובוט. 'אני גיסקרד, ואני שליט המפעל הזה. נכנסתם לכאן בלי רשות. זה אסור!’ 'סליחה, לא ידענו שאסור להיכנס למפעל.' ניסיתי להסביר, 'נצא מיד.’ 'לא ולא.' אמר הרובוט. 'לא אתם לכם לסכן את התכנית שלי...'",
-          "page11" : "'תוכנית? איזו תוכנית?' שאלתי בחשש.'למלא את העולם בשחור!' הכריז גיסקרד. 'לגרש את כל הצבעים האחרים, ולהחליף אותם בשחור. רק שחור!’ 'אבל...למה?' שאלתי, 'מה רע באדום, כחול או ירוק? מדוע רק שחור?’ 'אני שונא את כל הצבעים האחרים.' אמר הרובוט הגדול, והצביע על עצמו, 'שחור הוא הצבע הכי טוב, והכי יפה - כמו הצבע שלי. המפעל שלי ימלא את העולם במכוניות שחורות, וכשנסיים לבנות מכוניות - נייצר צעצועים שחורים, וספרים בעלי דפים שחורים, ותיקים שחורים...הקץ לצבעוניות. הכל יהיה שחור!' גיסקרד צחק צחוק מתכתי ואפל.",
-          "page12" : "אוי ואבוי, חשבתי לעצמי - הרובוט הזה השתגע! אני חייב לברוח מהמפעל ולהזעיק עזרה. 'אממ...תוכנית נהדרת! שחור זה נפלא. מתאים מאד לצעצועים...' אמרתי בקול, 'טוב, דניל - בוא, הגיע הזמן לחזור הביתה…' 'בשום פנים ואופן!' רעם גיסקרד. 'עכשיו, כשגיליתם את התכנית שלי, לא תוכלו לעזוב עוד את המפעל שלי לעולם.. רובוטים, תיפסו את בן האדם!' שני רובוטים מפס היצור אחזו בזרועותי.",
-          "page13" : "שני הזרועות הרובוטיות לפתו את ידיי בכוח. התפתלתי והתאמצתי, אך לא הצלחתי לחלץ את זרועותי. זיעה החלה לבצבץ על מצחי. פחדתי מאד. לא רציתי להישאר במפעל המכוניות לנצח! 'עיזבו אותי! עיזבו!' קראתי, ושוב ניסיתי להשתחרר. הרובוטים לא נעו אפילו מילימטר. לפתע שמעתי 'קלאנק!' מתחתיי. החבילה שהבאתי נפלה מתיק הדואר. היא פגעה ברצפה הקשה, קיפצה פעם ועוד פעם, והתגלגלה אל תוך פס הייצור. קוווצץ'! פלויינג!! חריקות רמות עלו מבין גלגלי השיניים, ופס הייצור נעצר. צופר אזעקה החל מייבב ברחבי המפעל.'אני אלך לבדוק מה קרה.' אמר גיסקרד. 'אל תתנו לו לברוח!' הוא הורה לשני הרובוטים שאחזו בי.",
-          "page14" : "גיסקרד עזב אותנו וניגש לפס היצור.'דניל...דניל!' לחשתי לרובוט הקטן, 'מה נעשה? ’דניל היה אובד עצות. 'לא יודע. איך אוכל לעזור לך? הרובוטים האלה גדולים וחזקים, ואני בסך הכל רובוט קטן שיודע רק לנקות רצפות…' 'אתה חייב לחשוב על משהו, דניל!' אמרתי לו.'אממ...אממ...' דניל הביט בגיסקרד, שעמד ליד פס הייצור. 'יש לי רעיון!' הוא לחש, והחל לנקות את רצפת המפעל. הבטתי ברובוט הקטן, ובפסים הרטובים שהשאיר אחריו על הרצפה. 'מה אתה עושה, דניל?!' לחשתי בזעם, 'זה לא הזמן לנקות! אנחנו חייבים למצוא דרך מילוט!' אך הרובוט הקטן לא השיב, ורק המשיך לשטוף את רצפת המפעל.",
-          "page15" : "גיסקרד הסתובב לעברנו, אוחז את החבילה בידיו. צופר האזעקה השתתק, והמכוניות על פס הייצור חזרו לנוע. 'טוב, איפה היינו...אה, כן!' הוא אמר בקולו המתכתי. 'קדימה, בני - אנחנו הולכים לתא המעצר, ממנו לא תצא לעולם.' גיסקרד התקרב לעברנו. 'בני!..בני!..' לחש לי דניל, 'הגזרים...הפל את הגזרים על הרצפה!’ 'הגזרים?!' שאלתי, מבולבל. לפתע נזכרתי בשקית הגזר שהבאתי איתי מהבית. התפתלתי וזעתי בין שני הרובוטים, עד ששקית הגזר נפלה אף היא מתיק הדואר. השקית נפתחה, וכל הגזרים התגלגלו על הרצפה.",
-          "page16" : "גיסקרד פסע לעברנו. 'קדימה, אל תא המעצר השחור! קדי... אאאאוופס!' הרובוט הגבוה דרך על אחד הגזרים, והחליק. הוא ניסה לייצב את עצמו, אך החליק על הרצפה הרטובה ונפל בעוצמה. 'איה! המעגלים האלקטרוניים שלי כואבים...' גיסקרד אחז בראשו המרובע. הוא הביט בנו, מבולבל. 'מה זה...מה אני עושה כאן?...' הוא שאל. אני ודניל הבטנו זה בזה, מופתעים: המכה מחקה את זכרונו של גיסקרד! הרובוט הגבוה התרומם על רגליו, עדיין מלטף את ראשו. 'שלום...אני גיסקרד, ואני רובוט המודיעין של מפעל המכוניות. למה אני לא יושב בדלפק הכניסה למפעל? מוזר. סלחו לי, אני חייב לשוב למקומי.' הוא מיהר לעזוב את האולם.",
-          "page17" : "'נהדר! הידד!' קראו הרובוטים המאושרים שסביבנו, 'הרובוט הרשע הובס!’ שני הרובוטים שאחזו בי הרפו מלפיתתם. הרובוט שעמו שוחחנו לחץ את ידי וליטף את דניל. 'תודה לכם, בני ודניל!' הוא אמר, 'גיסקרד השתלט על המפעל והכריח אותנו לבנות רק מכוניות שחורות... התגעגענו לצבעים האחרים. בזכותכם, העולם שלנו יחזור להיות צבעוני ושמח.’ 'התודה מגיעה לדניל,' אמרתי, 'הוא הרטיב את הרצפה והפך אותה לחלקלקה מאד...לפעמים, רובוט קטן וחכם יכול לנצח גם רובוטים גדולים וחזקים, בכוח המוח! או המעגלים האלקטרוניים, בכל אופן...' דניל חייך, וראיתי שהוא גאה מאד בעצמו.",
-          "page18" : "'נפרדנו לשלום מהרובוטים במפעל המכוניות, וטסנו בחזרה הביתה. אני כבר הייתי עייף, ונכנסתי מיד למיטה, לישון. כנראה שגם דניל התעייף מאד...' סיים סבא בני. הוא הצביע על שלושה פסים ירוקים וזוהרים על גופו של הרובוט. 'אבל עכשיו, כשחיברתי אותו לחשמל והסוללות שלו התמלאו, נראה לי שהוא התאושש.'",
-          "page19" : "'סבא, תשאל אותו אם הוא רוצה לנקות את הרצפה...' ביקשה מיה.'אין בעיה!', אמר סבא. הוא רכן מעל הרובוט וזימזם כמה מילים בשפת הרובוטים: 'דניל?… בזזזז.. בזזז… ביזזאזו...בוזז..' סבא שב והתרומם על רגליו. לפתע התעורר הרובוט הקטן לחיים, והחל מתגלגל במרץ ברחבי הסלון, מנקה ושוטף את הרצפה.'אתם רואים, דניל אוהב לשטוף את הרצפה!' הוא אמר בסיפוק. הרובוט התקרב אליהם, ואז נעצר, זמזום חרישי בוקע מתוכו. 'מה, דניל?' הקשיב סבא בני, 'אה, בטח! דניל מבקש שנרים רגליים, ילדים!'"
+          "page6" : "",
+          "page7" : "",
+          "page8" : "",
+          "page9" : "",
+          "page10" : "",
+          "page11" : "",
+          "page12" : "",
+          "page13" : "",
+          "page14" : "",
+          "page15" : "",
+          "page16" : "",
+          "page17" : "",
+          "page18" : "",
+          "page19" : ""
         }
     },
     "ru" : {
-      "title": "Дедушка Бенни и Роботы",
+      "title": "",
       "usage_notes"    : {
         "usage_notes_title"       : "Usage Notes",
         "screen_timeout_subtitle" : "Screen Timeout",
@@ -753,31 +753,31 @@
         "title" : "The Project",
         "description" : "'The Voice of Reason' is a global community of individuals who are passionate about children′s education, especially in the field of science and exploration.\nOur content is designed to stimulate children′s thirst for knowledge and encourage creativity through age-appropriate immersive stories, allowing kids to realize their full potential.",
         "credits_title": "Credits",
-        "credits_text" : "<p>Edwin Terek - Producer</p><p>Alex Pritsert - Producer</p><p>Ran Levi - Author, Developer</p><p>Anton Bandarenka - illustrator</p><p>David Gavin - Narration</p><p>Eduardo Rayn - Translation & Narration</p><p>Gideon Hack - Editing</p><p>Alesya Ugolkova - Editing</p><p>AV Records  - Music & Effects</p>"
+        "credits_text" : "<p>Edwin Terek - Producer</p><p>Alex Pritsert - Producer</p><p>Ran Levi - Author, Developer</p><p>David Gavin - Narration</p><p>Eduardo Rayn - Translation & Narration</p><p>Gideon Hack - Editing</p><p>Alesya Ugolkova - Editing</p><p>AV Records  - Music & Effects</p>"
       },
       "num_of_pages" : 20,
       "texts": 
         {
-          "page0" : "<h1 style='text-align:center'>Дедушка Бенни и Роботы</h1><p style='text-align:center'>Нажмите на изображение, чтобы начать рассказ!</p><p style='text-align:center'>(psst..попробуйте наклонить экран горизонтально)</p>",
-          "page1" : "Дэвид, Майя и дедушка Бенни сидели на диване и смотрели телевизор, как вдруг их внимание привлёк какой-то шум. Чёрный круглый робот-пылесос с лёгким жужжанием выехал в центр гостиной и начал скользить по полу, оставляя за собой влажный след. \nДедушка с бабушкой купили его пару недель назад, и детям очень понравилось смотреть, как он работает. Вот и в этот раз Дэвид и Майя с восторгом наблюдали за ним. \nНеожиданно шум утих, и маленький робот остановился. \n– Что случилось, дедушка? Он сломался? – с тревогой спросил Дэвид.",
-          "page2" : "– Э-э... Я думаю, что он просто устал, – ответил дедушка Бенни. – Сейчас я поставлю его на подзарядку. \n– Устал? Почему он устал? – спросила Майя. \n– Из-за нашего приключения на японском заводе, – ответил дедушка. – Разве я не говорил вам о нём? Ну, конечно! Из-за удара по голове я совсем забыл об этом. \n– Из-за какого удара, дедушка? Ну же, расскажи нам! – стали просить дети.",
-          "page3" : "Вчера утром, когда я пил кофе на кухне, раздался телефонный звонок. И как же я удивился, услышав голос господина Селдона, начальника почтового отделения, в котором я работал в юности. \n– Здравствуйте, мистер Селдон! Как вы поживаете? – живо спросил я. \n– Спасибо, хорошо, Бенни! – ответил он и сразу перешёл к делу. – Послушай, Бенни, мне очень нужна твоя помощь. У меня есть посылка, которую нужно срочно доставить в Японию на автомобильный завод. Но сегодня большой праздник – ежегодный фестиваль марок, и все почтальоны отдыхают. Можешь ли ты отвезти её? \n– Конечно! – тут же согласился я. – Сейчас же выхожу! \n– О! Большое спасибо, Бенни! Я знал, что могу положиться на тебя.",
-          "page4" : "Я побежал к шкафу и достал из него свой старый костюм почтальона и ту самую дорожную сумку, с которой никогда не расставался во время службы на почте. Быстро переодевшись, я вышел из дома. \nВ спешке я не заметил огромную ветвь, которая так низко склонялась над дорогой, что преграждала мне путь. Бац!!! От удара по лбу у меня из глаз посыпались искры! \nНемного придя в себя, я собрался идти дальше, но вдруг вспомнил, что так и не позавтракал. Вернувшись в дом, я зашёл на кухню и положил в сумку пакет свежей сочной моркови. \nВдруг из гостиной до меня донёсся чей-то радостный голос. \n– Чистота, чистота! Ах, какая красота! Пыль долой и грязь долой! Пол сверкает чистотой!",
-          "page5" : "«Не понимаю, кто это поёт», – подумал я, заглянув в гостиную. В ней никого не было. Разве что маленький робот-пылесос мыл пол. \n– Эй! Кто тут? – спросил я. \n– Чистота, чистота! Ах, какая красота! Пыль долой и грязь долой! Всё сверкает чистотой! – как ни в чём ни бывало продолжал напевать счастливый голос. \nЯ посмотрел вниз и понял: да это же пел робот! Он издавал те же звуки, что и всегда, но теперь… почему-то  слышал не просто жужжание, а слова. \nРобот остановился и посмотрел на меня. \n– Вы понимаете меня? – удивился он.  \n– Ты разговариваешь?! \n– Э-э... да. Наверное, да. \n– Из-за удара по голове я стал понимать язык роботов! – наконец, догадался я.",
-          "page6" : "– Меня зовут Даниль, – представился маленький робот. \n– А меня – дедушка Бенни, – ответил я и добавил: – Даниль, мне бы очень хотелось поговорить с тобой ещё, но я очень тороплюсь. Мне нужно срочно доставить посылку на автомобильный завод в Японии. \n– О, завод автомобилей! – с восторгом воскликнул он. – Возьмите меня с собой, дедушка Бенни! Пожалуйста. \n– Ты хочешь поехать со мной? Почему? – спросил я. \n– Я всегда хотел посетить такой завод. Там работает много роботов. Может быть, я найду среди них своих друзей или родственников, – объяснил Даниль. – Возьмите меня с собой! \n– Хорошо. По крайней мере, мне не будет скучно в пути, – согласился я и положил маленького робота в сумку.",
-          "page7" : "Забрав из почтового отделения посылку, я отправился в аэропорт. Полёт прошёл хорошо. Мы долго разговаривали с Данилем. Он рассказал мне, что обожает делать уборку и становится счастливым, когда всё вокруг сияет чистотой. \nВремя летело быстро, и я не заметил, как мы добрались до завода. Место консультанта, встречающего посетителей и рассказывающего о заводе, пустовало. А сам завод выглядел заброшенным. \n– Эй! – позвал я, заглянув в приоткрытую дверь. – Здесь есть кто-нибудь? \nНикто не ответил. «Как странно», –  подумал я. \n– Дедушка Бенни, там очень много роботов, и они собирают новые автомобили! Давайте пойдём и посмотрим на них! – предложил Даниль.",
-          "page8" : "Мы вошли в зал сборки автомобилей. Сотни роботов-рук стояли по обе стороны от конвейера – специальной движущейся дорожки. От одного робота к другому по этой «дорожке» перемещались десятки чёрных автомобилей. Роботы устанавливали в них сидения, двери и колеса. Двигались они очень быстро и ловко. \n– Ничего себе! Посмотрите, как быстро они работают! – с гордостью сказал Даниль. \n– Даниль, – прошептал я. – Здесь что-то не так. Посмотри на них: они несчастны. Да, они отлично справляются с работой, но им очень грустно. \n– Вы правы, дедушка Бенни, – согласился Даниль. – Это очень странно. Обычно роботы счастливы делать то, для чего они созданы.",
-          "page9"  : "– Простите, мистер Робот, – обратился я к одному из роботов, собирающих автомобили. – Почему вы все такие грустные? \nРобот повернулся ко мне, и я увидел, что он ужасно напуган. \n– Уходите отсюда! – прошептал он. \n– Что ты сказал? Уходите? –  переспросил удивлённый Даниль. \n– Бегите отсюда как можно быстрее. Вам не стоит оставаться здесь! \n– Почему? Что здесь происходит? – попытался разузнать я, но большой робот уже вернулся к работе. \nЯ хотел ещё что-то спросить, как вдруг робот прошептал: \n– Он идёт! Он идёт! Говорю же, вам лучше бежать! \nЯ открыл было рот, чтобы возразить, и в это время позади меня раздался чей-то страшный металлический голос: \n– Стоять! Это приказ!",
-          "page10" : "Мы с Данилем обернулись и увидели высокого чёрного робота, немного похожего на человека. Он смотрел на нас свысока каким-то жутким холодным взглядом. \n– Привет, я – дедушка Бенни, а это – Даниль, – представил я нас. – Мы пришли, чтобы передать вам посылку. \n– Молчать! – рявкнул робот. – Я Гискард, и я тут главный. Вы вошли без разрешения. Это запрещено! \n– К сожалению, мы не знали, что сюда нельзя входить, – попытался объяснить я. – Мы уже уходим. \n– Как бы не так, – сказал робот. – Вы можете разрушить мой план.",
-          "page11" : "– План? Какой план? – неосторожно спросил я. \n– Я хочу сделать мир чёрным! – объявил Гискард. – Уничтожить все остальные цвета! Всё будет чёрным! \n– Но... зачем? – удивился я. – Что плохо в красном, синем и зелёном? Почему ты хочешь заменить их на чёрный? \n– Я ненавижу все остальные цвета, – сказал огромный робот и указал на себя. – Чёрный цвет самый лучший и самый красивый, потому что это – мой цвет. Моя фабрика наполнит мир чёрными машинами. А когда мы закончим строить автомобили, мы создадим чёрные игрушки, чёрные сумки, книги с чёрными страницами и чёрными обложками... И придёт конец всем цветам! Всё вокруг будет чёрным! – засмеялся Гискард, и у меня мурашки побежали по телу от его жуткого металлического смеха.",
-          "page12" : "«О, ужас! – подумал я. – Этот робот сошёл с ума! Надо срочно уйти с завода и позвать на помощь». \n– Гм... отличный план! Чёрный цвет – это прекрасно. Он очень подходит для игрушек! – солгал я. – Ну, Даниль, нам пора идти домой. \n– Исключено! – рявкнул Гискард. – Теперь, когда вы всё знаете, вы не можете уйти отсюда. Роботы, схватите этого человека! \nДва робота тут же схватили меня за руки.",
-          "page13" : "Как я ни пытался, как ни крутился, мне не удавалось освободиться. \n– Отпустите меня! Отпустите! – закричал я, но роботы лишь отворачивались – они слишком боялись Гискарда, чтобы ослушаться его приказа. \nИ тут я услышал какой-то звук. Планк! Это посылка, которую я принёс, выпала из моей сумки. Она упала на конвейер. Прямо на крутящиеся шестерёнки. Пакет порвался, посылка несколько раз подскочила, конвейер подхватил её и стал переносить от робота к роботу… и вдруг из неё выпал гаечный ключ. \nКорцзз! Флвинг! Шестерёнки заскрипели, заискрились, и конвейер остановился. Тут же раздался вой сирены. \nПойду посмотрю, что там случилось, – сказал Гискард. – Не дайте ему уйти! – приказал он роботам, державшим меня.",
-          "page14" : "Гискард оставил нас и отправился устранять поломку. \n– Даниль. Даниль! – шёпотом позвал я маленького робота. – Что мы будем делать? \nДанил посмотрел на меня виновато и растерянно. \n– Я не знаю, чем вам помочь. Эти роботы большие и сильные, а я всего лишь  маленький робот, который умеет только мыть пол.\n– Ты должен придумать что-нибудь, Даниль! – сказал я ему. \n– Но... гм, – Даниль взглянул на Гискарда, стоявшего возле конвейера с автомобилями, и вдруг просиял. \n– У меня есть идея! – прошептал он и начал мыть пол. \nЯ смотрел на него и мокрые полосы, которые он оставлял на полу, в полном недоумении. \n– Что ты делаешь, Даниль?! – наконец, сердито прошептал я. – Сейчас не время делать уборку! Мы должны найти выход! \nНо маленький робот не ответил. Он продолжал делать свою работу.",
-          "page15" : "Гискард достал из шестерёнок гаечный ключ. Сирена тут же умолкла, и автомобили на конвейере снова стали перемещаться. Тогда чёрный робот обернулся и посмотрел на меня. \n– Ну, на чём мы остановились? – спросил он, медленно приближаясь. – Ах, да! Сейчас, дедушка Бенни, мы пойдём в камеру, в которой ты проведёшь всю свою жизнь. \n– Дедушка Бенни! – прошептал Даниль. – Морковь... Рассыпьте её по полу! \n– Морковь? – с удивлением переспросил я. \nИ тут я вспомнил, что взял с собой из дома целый пакет моркови. Я стал извиваться, брыкаться и подпрыгивать, пытаясь высвободить руки, и вытворял всё это до тех пор, пока пакет с морковью не выпал из сумки, висевшей у меня на плече.  Пакет порвался, и морковь покатилась по полу.",
-          "page16" : "Гискард сделал ещё один шаг в мою сторону. \n– Ну хватит. Пошли в камеру, дедуууу… Оаоуай! \nИ тут он наступил на одну из морковок и потерял равновесие. Он замахал руками, чтобы не упасть, но всё-таки поскользнулся на мокром полу и рухнул со страшной силой. \n– Аааа! Мои электросхемы болят! – Гискард обхватил голову руками. \nЗатем он посмотрел на нас растерянным взглядом и спросил: \n– Что происходит? Что я здесь делаю? \nМы с Данилем переглянулись и поняли: «Сильный удар стёр ему память!». \nРобот поднялся на ноги, все ещё держась за голову. \n– Здравствуйте... Я Гискард, робот-консультант автомобильного завода. Почему я не сижу у входа на завод? Странно. Простите, я должен вернуться на своё место. \nИ он поспешил выйти из зала.",
-          "page17" : "–Ура! Ура! – раздались со всех сторон счастливые голоса роботов. – Гискард побеждён! \nРоботы тут же отпустили меня, а робот, который предупреждал нас об опасности, пожал мне руку и похлопал Даниеля по «спине». \n– Спасибо, дедушка Бенни и Даниль! – сказал он. – Гискард захватил власть на заводе, и заставил нас собирать чёрные машины. Мы больше не делали машин другого цвета. Но, благодаря вам, в наш мир вернутся краски и радость! \n– Это заслуга Даниеля, – сказал я. – Он сделал пол очень скользким. И доказал, что иногда маленький умный робот может победить робота, который намного  больше, мощнее и умнее его! \n– Всё силой мозга! Ну или электросхемы, – улыбнулся Даниль. \nОн был очень горд собой.",
-          "page18" : "– Мы попрощались с роботами автомобильного завода и полетели домой. Я ужасно устал в тот день и сразу же отправился спать. Даниль, видимо, тоже очень устал, – закончил свой рассказ дедушка Бенни. \n– Но теперь, когда его батарейка заряжена, – дедушка Бенни указал на светящиеся зелёным светом полоски на корпусе робота, – я думаю, что он в полном порядке.",
-          "page19" : "– Дедушка, спроси его, может он хочет сейчас помыть пол, – попросила Майя. \n– Нет проблем! – сказал дедушка. \nОн нагнулся к роботу и пропел что-то на языке роботов. \n– Даниль, бззззз… зззззз... бизззазо...? \nЗатем дедушка снова сел, а маленький робот вдруг ожил и стал кататься по гостиной, отполировывая пол до блеска. \n– Вот видите, Даниль снова моет пол. И говорит, что с удовольствием! \nВнезапно робот подъехал к дивану, на котором сидели дедушка Бенни, Дэвид и Майя и, издав какой-то негромкий звук, остановился. \n– Что, Даниль? – переспросил дедушка Бенни. – О, конечно! Даниль просит нас поднять ноги."
+          "page0" : "<h1 style='text-align:center'>Дедушка Бенни идет в школу</h1><p style='text-align:center'>Нажмите на изображение, чтобы начать рассказ!</p><p style='text-align:center'>(psst..попробуйте наклонить экран горизонтально)</p>",
+          "page1" : "",
+          "page2" : "",
+          "page3" : "",
+          "page4" : "",
+          "page5" : "",
+          "page6" : "",
+          "page7" : "",
+          "page8" : "",
+          "page9"  : "",
+          "page10" : "",
+          "page11" : "",
+          "page12" : "",
+          "page13" : "",
+          "page14" : "",
+          "page15" : "",
+          "page16" : "",
+          "page17" : "",
+          "page18" : "",
+          "page19" : ""
         } 
     }
   }
